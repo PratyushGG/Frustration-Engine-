@@ -1,17 +1,17 @@
 # Commercial Opportunities Report - 2025-09-08
 
-**Total Commercial Problems Found: 197**
+**Total Commercial Problems Found: 204**
 
 ## Problem Categories
 
 | Category | Count | Business Potential |
 |----------|-------|-------------------|
-| General Frustration | 88 | 🔥 High |
-| Missing Features | 47 | 🔥 High |
+| General Frustration | 91 | 🔥 High |
+| Missing Features | 48 | 🔥 High |
 | Integration Problems | 36 | 🔥 High |
-| Scaling Issues | 10 | ✅ Medium |
+| Scaling Issues | 11 | 🔥 High |
 | Automation Needs | 8 | ✅ Medium |
-| Cost Problems | 5 | 💡 Low |
+| Cost Problems | 7 | ✅ Medium |
 | Workflow Problems | 3 | 💡 Low |
 
 ## Top 10 Commercial Opportunities
@@ -19,7 +19,7 @@
 ### 1. How do I make the most of this opportunity
 - **Category:** General Frustration
 - **Commercial Score:** 22/20
-- **Engagement:** 7 upvotes, 17 comments
+- **Engagement:** 6 upvotes, 17 comments
 - **Subreddit:** r/datascience
 - **Pain Point:** Hello everyone, I’m a senior studying data science at a large state school.  Recently, through some networking, I got to interview with a small real estate and financial data aggregator company with around \~100 employees...
 - **[Validate on Reddit](https://reddit.com/r/datascience/comments/1n0ep0g/how_do_i_make_the_most_of_this_opportunity/)**
@@ -27,7 +27,7 @@
 ### 2. Bootstrapped to $50K ARR with a 90% AI workforce (and loving it)
 - **Category:** Automation Needs
 - **Commercial Score:** 20/20
-- **Engagement:** 23 upvotes, 18 comments
+- **Engagement:** 21 upvotes, 20 comments
 - **Subreddit:** r/EntrepreneurRideAlong
 - **Pain Point:** Before you think this is about replacing humans, let me be clear - this is about strategic delegation so I can focus entirely on what actually requires human creativity and relationship building.  I've essentially built a team of AI assistants that handle repetitive tasks while I focus on strategy, client relationships, and product decisions...
 - **[Validate on Reddit](https://reddit.com/r/EntrepreneurRideAlong/comments/1nau645/bootstrapped_to_50k_arr_with_a_90_ai_workforce/)**
@@ -53,7 +53,7 @@ Old member here and I published 5, 6, 7-figures affiliate website (and display a
 ### 5. Share your startup - quarterly post
 - **Category:** General Frustration
 - **Commercial Score:** 16/20
-- **Engagement:** 64 upvotes, 485 comments
+- **Engagement:** 62 upvotes, 487 comments
 - **Subreddit:** r/startups
 - **Pain Point:** Share Your Startup - Q4 2023
 
@@ -63,7 +63,7 @@ Old member here and I published 5, 6, 7-figures affiliate website (and display a
 ### 6. Small business owners - how do you keep track of all your contacts and follow-ups?
 - **Category:** Integration Problems
 - **Commercial Score:** 15/20
-- **Engagement:** 48 upvotes, 40 comments
+- **Engagement:** 44 upvotes, 40 comments
 - **Subreddit:** r/EntrepreneurRideAlong
 - **Pain Point:** This might be a basic question but I'm struggling with contact management as my business grows. 
 
@@ -93,7 +93,7 @@ I started with just keeping notes in my phone and Gmail, but now I have potentia
 ### 9. How do I sell my custom home building business?
 - **Category:** General Frustration
 - **Commercial Score:** 14/20
-- **Engagement:** 16 upvotes, 53 comments
+- **Engagement:** 15 upvotes, 53 comments
 - **Subreddit:** r/Entrepreneur
 - **Pain Point:** I’m a 35M and have built a custom home building business that does ~$10M revenue annually with a team of 5 including myself.  I have been thinking a lot this year about how to scale the business in a direction where I can eventually sell it to someone...
 - **[Validate on Reddit](https://reddit.com/r/Entrepreneur/comments/1mz6gx6/how_do_i_sell_my_custom_home_building_business/)**
@@ -117,8 +117,8 @@ I started with just keeping notes in my phone and Gmail, but now I have potentia
 - Slack: 3 mentions
 
 **Hottest Problem Categories:**
-- General Frustration: 88 problems
-- Missing Features: 47 problems
+- General Frustration: 91 problems
+- Missing Features: 48 problems
 - Integration Problems: 36 problems
-- Scaling Issues: 10 problems
+- Scaling Issues: 11 problems
 - Automation Needs: 8 problems
