@@ -1,4 +1,4 @@
-name: Daily Frustration Finder
+name: Daily Problem Hunter
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  find-frustrations:
+  hunt-problems:
     runs-on: ubuntu-latest
     
     steps:
@@ -18,25 +18,32 @@ jobs:
         with:
           python-version: '3.9'
       
-      - name: Install Reddit tool
+      - name: Install tools
         run: |
           pip install praw
       
-      - name: Find frustrations
+      - name: Run advanced problem finder
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: |
-          python scripts/reddit_scraper.py
+          python scripts/advanced_scraper.py
       
-      - name: Analyze opportunities with AI
+      - name: Mine comments for hidden problems
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          python scripts/comment_miner.py
+      
+      - name: Run AI analyzer
         run: |
           python scripts/ai_analyzer.py
       
-      - name: Save results
+      - name: Save all results
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "Frustration Finder Bot"
+          git config --local user.name "Problem Hunter Bot"
           git add data/
-          git commit -m "Found frustrations and opportunities for $(date +'%Y-%m-%d')" || echo "No new data"
+          git commit -m "Hunted problems for $(date +'%Y-%m-%d')" || echo "No new problems"
           git push
