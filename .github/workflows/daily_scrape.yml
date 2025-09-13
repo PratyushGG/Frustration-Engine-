@@ -1,36 +1,27 @@
-# This file tells GitHub to run our program automatically every day
-
 name: Daily Frustration Finder
 
-# When should this run?
 on:
   schedule:
-    # Run at 9 AM UTC every day
     - cron: '0 9 * * *'
-  workflow_dispatch:  # This lets you run it manually too
+  workflow_dispatch:
 
-# What should it do?
 jobs:
   find-frustrations:
-    runs-on: ubuntu-latest  # Use GitHub's computer (free)
+    runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Download our code
       - name: Get our code
         uses: actions/checkout@v2
       
-      # Step 2: Set up Python (programming language)
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
       
-      # Step 3: Install Reddit tool
       - name: Install Reddit tool
         run: |
           pip install praw pytz
       
-      # Step 4: Run our frustration finder
       - name: Find frustrations
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
@@ -38,12 +29,11 @@ jobs:
         run: |
           python scripts/reddit_scraper.py
       
-      # Step 5: Save the results back to GitHub
-     - name: Save results
-  run: |
-    git config --local user.email "action@github.com"
-    git config --local user.name "Frustration Finder Bot"
-    git pull origin main  # ADD THIS LINE - pulls latest changes
-    git add data/
-    git commit -m "Found frustrations for $(date +'%Y-%m-%d')" || echo "No new data"
-    git push
+      - name: Save results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Frustration Finder Bot"
+          git pull origin main --rebase
+          git add data/
+          git commit -m "Found frustrations for $(date +'%Y-%m-%d')" || echo "No new data"
+          git push
