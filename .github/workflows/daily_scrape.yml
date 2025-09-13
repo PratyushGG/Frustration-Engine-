@@ -39,10 +39,11 @@ jobs:
           python scripts/reddit_scraper.py
       
       # Step 5: Save the results back to GitHub
-      - name: Save results
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "Frustration Finder Bot"
-          git add data/
-          git commit -m "Found frustrations for $(date +'%Y-%m-%d')" || echo "No new frustrations"
-          git push
+     - name: Save results
+  run: |
+    git config --local user.email "action@github.com"
+    git config --local user.name "Frustration Finder Bot"
+    git pull origin main  # ADD THIS LINE - pulls latest changes
+    git add data/
+    git commit -m "Found frustrations for $(date +'%Y-%m-%d')" || echo "No new data"
+    git push
