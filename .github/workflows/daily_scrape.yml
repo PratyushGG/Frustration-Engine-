@@ -28,7 +28,7 @@ jobs:
       # Step 3: Install Reddit tool
       - name: Install Reddit tool
         run: |
-          pip install praw
+          pip install praw pytz
       
       # Step 4: Run our frustration finder
       - name: Find frustrations
