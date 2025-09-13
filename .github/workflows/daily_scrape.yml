@@ -33,7 +33,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Frustration Finder Bot"
-          git pull origin main --rebase
+          git fetch origin
+          git reset --hard origin/main
           git add data/
           git commit -m "Found frustrations for $(date +'%Y-%m-%d')" || echo "No new data"
           git push
