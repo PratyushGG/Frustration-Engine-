@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Simple project oversight tools that include invoicing + payments?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1ob6kqg/simple_project_oversight_tools_that_include/",
+    "score": 33,
+    "comments": 18,
+    "value_score": 38,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "looking for a time tracking software that goes beyond just logging hours. ideally, something that ca",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-19",
+    "preview": "I\u2019m looking for a time tracking software that goes beyond just logging hours. Ideally, something that can also handle project oversight, invoicing, and payments. I\u2019d rather not duct tape a bunch of tools together if I can help it. Is there a tool out there that gives visibility into project progress"
+  },
+  {
+    "title": "Simple project oversight tools that include invoicing + payments?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1ob6kqg/simple_project_oversight_tools_that_include/",
+    "score": 31,
+    "comments": 18,
+    "value_score": 37,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "looking for a time tracking software that goes beyond just logging hours. ideally, something that ca",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-19",
+    "preview": "I\u2019m looking for a time tracking software that goes beyond just logging hours. Ideally, something that can also handle project oversight, invoicing, and payments. I\u2019d rather not duct tape a bunch of tools together if I can help it. Is there a tool out there that gives visibility into project progress"
+  },
+  {
+    "title": "How do you manage bulk product listings efficiently?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1nvavrs/how_do_you_manage_bulk_product_listings/",
+    "score": 7,
+    "comments": 12,
+    "value_score": 35,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-01",
+    "preview": "I\u2019ve hit a wall with product listings. Adding each product manually with descriptions, images, and SEO takes forever, and with hundreds more products to add, it feels impossible to keep up.  \n\nI know some people hire virtual assistants or freelancers, but I\u2019m worried about inconsistency and errors. "
+  },
+  {
+    "title": "Looking for Apify experts who specialize in custom actors for data extraction, any recommendations?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1o6gpxc/looking_for_apify_experts_who_specialize_in/",
+    "score": 18,
+    "comments": 4,
+    "value_score": 34,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for apify experts who specialize in custom actors for data extraction, any recommendations?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-14",
+    "preview": "Need to scrape data from about 15-20 platforms and custom python scrapers are becoming a maintenance nightmare. Sites change layouts constantly and i'm spending more time fixing stuff than actually building anything useful.\n\nThinking about switching to apify custom actors but want to work with someo"
+  },
+  {
+    "title": "Analytics tools for ecommerce?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1o994ai/analytics_tools_for_ecommerce/",
+    "score": 10,
+    "comments": 17,
+    "value_score": 32,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a tool to tie in attribution metrics and shopify metrics so we can track ads, email mark",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-17",
+    "preview": "Hey guys, I'm looking for a tool to tie in attribution metrics and shopify metrics so we can track ads, email marketing, LTV etc etc\n\nMainly looking for something that allows a lot of integrations at once and provides the built in ETL I guess, currently we're using Looker but we're not getting that "
+  },
+  {
+    "title": "Is it worth starting an online jewelry business right now?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1nzu9du/is_it_worth_starting_an_online_jewelry_business/",
+    "score": 13,
+    "comments": 34,
+    "value_score": 22,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for honest opinions. thanks in advance. ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-06",
+    "preview": "I work at a wholesale diamond jewelry place, so I can get both natural and lab-grown pieces for way cheaper than retail. I\u2019ve been thinking about starting an online jewelry brand, maybe through Shopify, since I already know what sells well in stores.\n\nDo you think it\u2019s still a good time to get into "
+  }
+]
