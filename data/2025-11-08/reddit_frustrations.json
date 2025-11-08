@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Simple project oversight tools that include invoicing + payments?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1ob6kqg/simple_project_oversight_tools_that_include/",
+    "score": 32,
+    "comments": 19,
+    "value_score": 37,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "looking for a time tracking software that goes beyond just logging hours. ideally, something that ca",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-19",
+    "preview": "I\u2019m looking for a time tracking software that goes beyond just logging hours. Ideally, something that can also handle project oversight, invoicing, and payments. I\u2019d rather not duct tape a bunch of tools together if I can help it. Is there a tool out there that gives visibility into project progress"
+  },
+  {
+    "title": "Simple project oversight tools that include invoicing + payments?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1ob6kqg/simple_project_oversight_tools_that_include/",
+    "score": 31,
+    "comments": 19,
+    "value_score": 37,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "looking for a time tracking software that goes beyond just logging hours. ideally, something that ca",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-19",
+    "preview": "I\u2019m looking for a time tracking software that goes beyond just logging hours. Ideally, something that can also handle project oversight, invoicing, and payments. I\u2019d rather not duct tape a bunch of tools together if I can help it. Is there a tool out there that gives visibility into project progress"
+  },
+  {
+    "title": "Looking for Apify experts who specialize in custom actors for data extraction, any recommendations?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1o6gpxc/looking_for_apify_experts_who_specialize_in/",
+    "score": 20,
+    "comments": 4,
+    "value_score": 35,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for apify experts who specialize in custom actors for data extraction, any recommendations?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-14",
+    "preview": "Need to scrape data from about 15-20 platforms and custom python scrapers are becoming a maintenance nightmare. Sites change layouts constantly and i'm spending more time fixing stuff than actually building anything useful.\n\nThinking about switching to apify custom actors but want to work with someo"
+  },
+  {
+    "title": "Looking for a dev. Partner",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1on3wjz/looking_for_a_dev_partner/",
+    "score": 30,
+    "comments": 73,
+    "value_score": 34,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a dev. partner",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-11-03",
+    "preview": "I'm looking for a software developer or app builder\ninterested in partnering on a startup project called my social code a saas project . I'm not looking to hire - I'm offering a Esop partnership. You'd help build the app, and instead of upfront payment, you'd earn a great share of profits/revenue\non"
+  },
+  {
+    "title": "\ud83d\udca1 Is there any platform that analyzes your startup idea end-to-end?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1olvtj8/is_there_any_platform_that_analyzes_your_startup/",
+    "score": 3,
+    "comments": 7,
+    "value_score": 32,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "need to hire separate consultants for validation, strategy, and growth plans.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-11-01",
+    "preview": "I\u2019ve been wondering \u2014 is there a tool or platform where you can just enter your startup idea, and it does everything for you \u2014 like:\n\n\t\u2022\truns competitor analysis\n\n\t\u2022\ttells whether the idea is viable or not\n\t\u2022\tsuggests the best go-to-market strategy\n\n\t\u2022\tgives insights on marketing, sales, and positio"
+  },
+  {
+    "title": "Analytics tools for ecommerce?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1o994ai/analytics_tools_for_ecommerce/",
+    "score": 10,
+    "comments": 17,
+    "value_score": 32,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a tool to tie in attribution metrics and shopify metrics so we can track ads, email mark",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-10-17",
+    "preview": "Hey guys, I'm looking for a tool to tie in attribution metrics and shopify metrics so we can track ads, email marketing, LTV etc etc\n\nMainly looking for something that allows a lot of integrations at once and provides the built in ETL I guess, currently we're using Looker but we're not getting that "
+  },
+  {
+    "title": "How do you validate ideas fast enough without falling into analysis paralysis?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1olw8pw/how_do_you_validate_ideas_fast_enough_without/",
+    "score": 8,
+    "comments": 51,
+    "value_score": 26,
+    "validation_count": 1,
+    "problem_type": "analytics",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "needs (just because coding feels more comfortable than talking to people), i wanted to focus on find",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-11-01",
+    "preview": "Having launched the third micro-SaaS ever (that didn't take off) , last week, I decided to change my approach.   \nInstead of jumping straight into building something no one needs (just because coding feels more comfortable than talking to people), I wanted to focus on finding a *real problem* first."
+  }
+]
