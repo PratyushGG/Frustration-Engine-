@@ -1,0 +1,249 @@
+[
+  {
+    "title": "I am building a $10/mo alternative to Slack + Asana + BambooHR for small teams. Am I crazy for trying this?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1pmljl7/i_am_building_a_10mo_alternative_to_slack_asana/",
+    "score": 3,
+    "comments": 3,
+    "value_score": 61,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "slack",
+      "asana"
+    ],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$10"
+    ],
+    "urgency": "normal",
+    "date": "2025-12-14",
+    "preview": "Hi everyone,\n\nI\u2019m building a tool for small teams (3-20 people). I've been working on this in silence for a while.\n\n**The Problem:** Small agencies are paying for Slack + Jira + HR tools separately. It's too expensive and chaotic.\n\n**The Solution :** We combined **HR + Chat + Calls + Projects + Cale"
+  },
+  {
+    "title": "Why do some people recommend starting a business like it\u2019s \u201ceasy\u201d compared to a 9\u20135?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1pmrpf2/why_do_some_people_recommend_starting_a_business/",
+    "score": 33,
+    "comments": 73,
+    "value_score": 47,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-14",
+    "preview": "[](https://www.reddit.com/r/Entrepreneur/?f=flair_name%3A%22Starting%20a%20Business%22)I often see people on social media casually recommend \u201cjust start a business\u201d as if it\u2019s a simple or obvious alternative to a 9\u20135. But from what I can tell, starting a business usually requires hell of a lot more "
+  },
+  {
+    "title": "best sms marketing software for small businesses looking for something simple that actually works",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1pifr6r/best_sms_marketing_software_for_small_businesses/",
+    "score": 19,
+    "comments": 23,
+    "value_score": 41,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "looking for something simple that actually works",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-09",
+    "preview": "hey all, I run a pretty small local business and I am trying to get better at staying connected with customers. email is fine but a lot of people never open anything, so I figured sms might be a better fit. the problem is I have no clue which platforms are actually good for small businesses and whic"
+  },
+  {
+    "title": "Built a Shopify store during a sabbatical looking for blunt UX & conversion feedback",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pppmby/built_a_shopify_store_during_a_sabbatical_looking/",
+    "score": 4,
+    "comments": 10,
+    "value_score": 33,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for blunt ux & conversion feedback",
+    "budget_signals": [],
+    "urgency": "high",
+    "date": "2025-12-18",
+    "preview": "I\u2019m a career product manager/developer and took a sabbatical earlier this year. Instead of resting, I challenged myself to build a real commercial project from scratch.\n\nOver \\~2 months, I learned: Shopify, Canva, and a handful of AI tools\n\nI used a paid theme and only minimal custom code. The site "
+  },
+  {
+    "title": "Do you track your competitors the same way you track your own brand?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pcuqwn/do_you_track_your_competitors_the_same_way_you/",
+    "score": 9,
+    "comments": 21,
+    "value_score": 33,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-02",
+    "preview": "I\u2019ve noticed competitor mentions are often more actionable than my own. People complain, ask for alternatives, or share pricing pain, and it\u2019s basically free market research. I usually track a couple competitor names plus \u201calternative to X\u201d type phrases, and that surfaces way more interesting conver"
+  },
+  {
+    "title": "Is there a website or CLI tool to scan a CSS file and returns the minimum supported browser versions?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1pgkm0x/is_there_a_website_or_cli_tool_to_scan_a_css_file/",
+    "score": 6,
+    "comments": 2,
+    "value_score": 31,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-07",
+    "preview": "Is there a website or CLI tool to scan a CSS file and returns the minimum supported browser versions? I know theirs [MDN](https://developer.mozilla.org/en-US/) & [Can I Use?](https://caniuse.com/) but you have to manually search each CSS property. Is there a tool to automate this?"
+  },
+  {
+    "title": "[Showoff Saturday] I made an open source alternative to Shopify",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1pfrfr2/showoff_saturday_i_made_an_open_source/",
+    "score": 140,
+    "comments": 39,
+    "value_score": 30,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-06",
+    "preview": ""
+  },
+  {
+    "title": "Payoneer - I do not recommend it!",
+    "subreddit": "freelance",
+    "url": "https://reddit.com/r/freelance/comments/1pfmoyh/payoneer_i_do_not_recommend_it/",
+    "score": 29,
+    "comments": 20,
+    "value_score": 26,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for a platform to withdraw or transfer funds, i strongly do not recommend this platform!",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-06",
+    "preview": "I had a negative experience with this platform. This service has zero support! If you are looking for a platform to withdraw or transfer funds, I strongly do not recommend this platform!\nEverything was fine until the moment when it was necessary to confirm the residential address.The address and spe"
+  },
+  {
+    "title": "Proposing a New 'Adult-Content' HTTP Header to Improve Parental Controls, as an Alternative to Orwellian State Surveillance",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1poye1v/proposing_a_new_adultcontent_http_header_to/",
+    "score": 1401,
+    "comments": 274,
+    "value_score": 25,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-17",
+    "preview": "Have you seen the news? about so many countries crazy solutions to protecting children from seeing adult content online? \n\nWhy do we not have something like a simple http header ie  \n \n    Adult-Content: true  \n    Age-Threshold: 18   \n\nThat tells the device the age rating of the content. \n\nWhere th"
+  },
+  {
+    "title": "Is HTMX actually a good alternative to building full SPAs, or is it mainly for simple projects?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1piyfud/is_htmx_actually_a_good_alternative_to_building/",
+    "score": 69,
+    "comments": 92,
+    "value_score": 25,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-10",
+    "preview": "I\u2019m new to web development, and I\u2019ve been seeing HTMX mentioned a lot lately. Some people say it\u2019s a lightweight way to build interactive apps without a full JavaScript framework, while others say it\u2019s basically old-school server rendering with a new name.  \n  \nFor someone learning modern frontend, "
+  },
+  {
+    "title": "How to get more detailed reviews (looking for anything that actually works)",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1p6l2iu/how_to_get_more_detailed_reviews_looking_for/",
+    "score": 8,
+    "comments": 8,
+    "value_score": 23,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for anything that actually works)",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-11-25",
+    "preview": "We manage a handful of Shopify stores, and one of the biggest headaches lately has been getting\u00a0detailed\u00a0reviews instead of the usual \u201cGreat product!\u201d or \u201cFast shipping.\u201d Volume is fine more or less, but the quality just isn\u2019t there. A lot of our clients who are using the popular cheap apps especial"
+  },
+  {
+    "title": "Does anyone know good software for creating things like invoices and contracts that isn't a subscription?",
+    "subreddit": "freelance",
+    "url": "https://reddit.com/r/freelance/comments/1pc8tb0/does_anyone_know_good_software_for_creating/",
+    "score": 9,
+    "comments": 21,
+    "value_score": 23,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for software for creating and customising documents like msa, sow and specifically invoices ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-02",
+    "preview": "As the title says I'm looking for software for creating and customising documents like MSA, SOW and specifically invoices for two freelancers starting a business partnership offering services at a flat fee. I'm happy to pay a lifetime access fee if that is an option I just don't want to get bogged d"
+  },
+  {
+    "title": "Looking for a Technical Cofounder in Madrid, Spain, for a cloud-based Fintech SaaS (I will not promote)",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1pnfdow/looking_for_a_technical_cofounder_in_madrid_spain/",
+    "score": 3,
+    "comments": 3,
+    "value_score": 21,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "looking for a technical cofounder in madrid, spain, for a cloud-based fintech saas (i will not promo",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2025-12-15",
+    "preview": "I\u2019ve been trading financial markets for a decade and I\u2019ve recently decided to pursue a Fintech niche SaaS that has little to no competition at the moment. It is a potentially revolutionary idea that requires a complex and sophisticated backend (cloud-based SaaS). I\u2019m inclined to sell it as soon as i"
+  }
+]
