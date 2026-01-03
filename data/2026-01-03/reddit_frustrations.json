@@ -1,0 +1,337 @@
+[
+  {
+    "title": "I am building a $10/mo alternative to Slack + Asana + BambooHR for small teams. Am I crazy for trying this?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1pmljl7/i_am_building_a_10mo_alternative_to_slack_asana/",
+    "score": 3,
+    "comments": 3,
+    "value_score": 61,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "slack",
+      "asana"
+    ],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$10"
+    ],
+    "urgency": "normal",
+    "date": "2025-12-14",
+    "preview": "Hi everyone,\n\nI\u2019m building a tool for small teams (3-20 people). I've been working on this in silence for a while.\n\n**The Problem:** Small agencies are paying for Slack + Jira + HR tools separately. It's too expensive and chaotic.\n\n**The Solution :** We combined **HR + Chat + Calls + Projects + Cale"
+  },
+  {
+    "title": "Is there a good task management app for a solo entrepreneur?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1px8jzu/is_there_a_good_task_management_app_for_a_solo/",
+    "score": 12,
+    "comments": 42,
+    "value_score": 52,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "excel",
+      "sheets"
+    ],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "looking forward to organize and manage priorities better. ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-27",
+    "preview": "Hello, guys. I have been working as a freelancer for 3 years and this year i started a new small business that is going well. I am starting to feel like I could organize myself better and with work tasks increasing I am looking forward to organize and manage priorities better. \n\nI have been seeing s"
+  },
+  {
+    "title": "Alternative to Flexport? We got sold, and now we're up a creek",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1pwigdb/alternative_to_flexport_we_got_sold_and_now_were/",
+    "score": 6,
+    "comments": 41,
+    "value_score": 51,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [
+      "$500",
+      "$5000",
+      "$5000"
+    ],
+    "urgency": "normal",
+    "date": "2025-12-26",
+    "preview": "Is there an alternative to Flexport? \n\nOur small business got sold on the idea of Flexport when they started touting them as a partner solution with Shopify. We have operated on Shopify for over 12 years, and when Flexport caught our radar, it seemed like a fantastic idea. A logistics company that w"
+  },
+  {
+    "title": "small business owners, how do you handle online reviews and local marketing?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1q15s8s/small_business_owners_how_do_you_handle_online/",
+    "score": 4,
+    "comments": 21,
+    "value_score": 47,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$200"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-01",
+    "preview": "running a small food business and finally got some of the basics sorted. using square for POS, got the branding stuff figured out with X-Design for packaging, menus and holiday promo posters, even using chatgpt for social captions. operations side is running pretty smooth.\n\nbut i'm struggling hard w"
+  },
+  {
+    "title": "stores with 500+ skus: do you automate product comparison inquiries or hire specialists?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pz97vc/stores_with_500_skus_do_you_automate_product/",
+    "score": 6,
+    "comments": 18,
+    "value_score": 47,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-30",
+    "preview": "we have about 600 SKUs across multiple categories and getting tons of questions like \"what's the difference between X and Y\" or \"which one is better for my use case\"\n\nmanually answering these takes forever because I have to actually look up specs and compare features each time. Thinking about either"
+  },
+  {
+    "title": "Why do some people recommend starting a business like it\u2019s \u201ceasy\u201d compared to a 9\u20135?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1pmrpf2/why_do_some_people_recommend_starting_a_business/",
+    "score": 37,
+    "comments": 74,
+    "value_score": 46,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-14",
+    "preview": "[](https://www.reddit.com/r/Entrepreneur/?f=flair_name%3A%22Starting%20a%20Business%22)I often see people on social media casually recommend \u201cjust start a business\u201d as if it\u2019s a simple or obvious alternative to a 9\u20135. But from what I can tell, starting a business usually requires hell of a lot more "
+  },
+  {
+    "title": "Built a Shopify store during a sabbatical looking for blunt UX & conversion feedback",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pppmby/built_a_shopify_store_during_a_sabbatical_looking/",
+    "score": 4,
+    "comments": 10,
+    "value_score": 33,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for blunt ux & conversion feedback",
+    "budget_signals": [],
+    "urgency": "high",
+    "date": "2025-12-18",
+    "preview": "I\u2019m a career product manager/developer and took a sabbatical earlier this year. Instead of resting, I challenged myself to build a real commercial project from scratch.\n\nOver \\~2 months, I learned: Shopify, Canva, and a handful of AI tools\n\nI used a paid theme and only minimal custom code. The site "
+  },
+  {
+    "title": "Do you track your competitors the same way you track your own brand?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pcuqwn/do_you_track_your_competitors_the_same_way_you/",
+    "score": 9,
+    "comments": 21,
+    "value_score": 33,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-02",
+    "preview": "I\u2019ve noticed competitor mentions are often more actionable than my own. People complain, ask for alternatives, or share pricing pain, and it\u2019s basically free market research. I usually track a couple competitor names plus \u201calternative to X\u201d type phrases, and that surfaces way more interesting conver"
+  },
+  {
+    "title": "Is there a website or CLI tool to scan a CSS file and returns the minimum supported browser versions?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1pgkm0x/is_there_a_website_or_cli_tool_to_scan_a_css_file/",
+    "score": 6,
+    "comments": 2,
+    "value_score": 31,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-07",
+    "preview": "Is there a website or CLI tool to scan a CSS file and returns the minimum supported browser versions? I know theirs [MDN](https://developer.mozilla.org/en-US/) & [Can I Use?](https://caniuse.com/) but you have to manually search each CSS property. Is there a tool to automate this?"
+  },
+  {
+    "title": "[Showoff Saturday] I made an open source alternative to Shopify",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1pfrfr2/showoff_saturday_i_made_an_open_source/",
+    "score": 138,
+    "comments": 39,
+    "value_score": 30,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-06",
+    "preview": ""
+  },
+  {
+    "title": "Payoneer - I do not recommend it!",
+    "subreddit": "freelance",
+    "url": "https://reddit.com/r/freelance/comments/1pfmoyh/payoneer_i_do_not_recommend_it/",
+    "score": 30,
+    "comments": 20,
+    "value_score": 27,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for a platform to withdraw or transfer funds, i strongly do not recommend this platform!",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-06",
+    "preview": "I had a negative experience with this platform. This service has zero support! If you are looking for a platform to withdraw or transfer funds, I strongly do not recommend this platform!\nEverything was fine until the moment when it was necessary to confirm the residential address.The address and spe"
+  },
+  {
+    "title": "I create/sell custom children's books - Does Shopify have a way that I can utilize it's marketplace to affiliate my products?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1pwofb7/i_createsell_custom_childrens_books_does_shopify/",
+    "score": 3,
+    "comments": 3,
+    "value_score": 26,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "want you to affiliate/promote our children's book and earn $5/sale.",
+    "budget_signals": [
+      "$5"
+    ],
+    "urgency": "normal",
+    "date": "2025-12-26",
+    "preview": "Hello,\n\nI have a new company that sells custom children's books.  We've partnered with local preschools and daycares and have had some great success and are now looking to expand into the digital market, and specifically, to online platforms that allow other people to affiliate our children's books."
+  },
+  {
+    "title": "looking for a tool to track engineering performance and project health across teams",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1pp6oco/looking_for_a_tool_to_track_engineering/",
+    "score": 0,
+    "comments": 17,
+    "value_score": 25,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "monday"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a tool to track engineering performance and project health across teams",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-17",
+    "preview": "we are running into a problem where it\u2019s hard to see how teams are actually doing progress, bottlenecks, who is overloaded, who is idle, all of that feels like guesswork right now. we need something that gives us dashboards and reporting, ideally as part of team collaboration tools. would love to he"
+  },
+  {
+    "title": "Proposing a New 'Adult-Content' HTTP Header to Improve Parental Controls, as an Alternative to Orwellian State Surveillance",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1poye1v/proposing_a_new_adultcontent_http_header_to/",
+    "score": 1413,
+    "comments": 275,
+    "value_score": 25,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-17",
+    "preview": "Have you seen the news? about so many countries crazy solutions to protecting children from seeing adult content online? \n\nWhy do we not have something like a simple http header ie  \n \n    Adult-Content: true  \n    Age-Threshold: 18   \n\nThat tells the device the age rating of the content. \n\nWhere th"
+  },
+  {
+    "title": "Is HTMX actually a good alternative to building full SPAs, or is it mainly for simple projects?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1piyfud/is_htmx_actually_a_good_alternative_to_building/",
+    "score": 70,
+    "comments": 92,
+    "value_score": 25,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-10",
+    "preview": "I\u2019m new to web development, and I\u2019ve been seeing HTMX mentioned a lot lately. Some people say it\u2019s a lightweight way to build interactive apps without a full JavaScript framework, while others say it\u2019s basically old-school server rendering with a new name.  \n  \nFor someone learning modern frontend, "
+  },
+  {
+    "title": "Looking for app/software recommendations for a growing custom home build business",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1pzupcy/looking_for_appsoftware_recommendations_for_a/",
+    "score": 3,
+    "comments": 9,
+    "value_score": 23,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for app/software recommendations for a growing custom home build business",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-30",
+    "preview": "My brother and I run a small but rapidly growing custom home building operation. Most of the construction work is subcontracted out, so the majority of our time is spent coordinating with clients, trades, and vendors, as well as sourcing and purchasing materials.\n\nWe\u2019ve been fortunate to see signifi"
+  },
+  {
+    "title": "Looking for a Technical Cofounder in Madrid, Spain, for a cloud-based Fintech SaaS (I will not promote)",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1pnfdow/looking_for_a_technical_cofounder_in_madrid_spain/",
+    "score": 3,
+    "comments": 3,
+    "value_score": 21,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "looking for a technical cofounder in madrid, spain, for a cloud-based fintech saas (i will not promo",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2025-12-15",
+    "preview": "I\u2019ve been trading financial markets for a decade and I\u2019ve recently decided to pursue a Fintech niche SaaS that has little to no competition at the moment. It is a potentially revolutionary idea that requires a complex and sophisticated backend (cloud-based SaaS). I\u2019m inclined to sell it as soon as i"
+  }
+]
