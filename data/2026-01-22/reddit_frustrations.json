@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Anyone building Open Source alternatives to paid SaaS?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1qbwpyr/anyone_building_open_source_alternatives_to_paid/",
+    "score": 10,
+    "comments": 26,
+    "value_score": 60,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [
+      "zapier"
+    ],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$500"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-13",
+    "preview": "Hello, Bart here!\n\nOpen source is becoming a legit GTM strategy for SaaS - not just a hobby project approach. I'm sure you know many of these examples: Supabase -> Firebase, Plausible -> Google Analytics, N8n -> Zapier and so on. \n\nWe're going a similar path, but for wearables. Open Wearables is an "
+  },
+  {
+    "title": "Why does every social media tool suddenly cost $300/month?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1qczsk9/why_does_every_social_media_tool_suddenly_cost/",
+    "score": 3,
+    "comments": 10,
+    "value_score": 58,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "needed, but the pricing is a flat-rate instead of \"per user.\" it honestly saved my budget.",
+    "budget_signals": [
+      "$300"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-14",
+    "preview": "Serious question. I remember when managing social media was affordable.\n\nI just got quoted \"Agency\" pricing from the big legacy platforms (Sprout/Hootsuite) for a small team managing \\~10 accounts, and the price per user is insane. It feels like they are punishing us for growing.\n\nI spent the last w"
+  },
+  {
+    "title": "Is there a tool that alerts you BEFORE SaaS prices increase?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1q4xzzw/is_there_a_tool_that_alerts_you_before_saas/",
+    "score": 3,
+    "comments": 9,
+    "value_score": 53,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-05",
+    "preview": "Got absolutely burned last month. One of our core tools (won't name names) increased their pricing by 60% with only 30 days notice. \n\nWe're on monthly billing, so basically had to scramble to either: \n\n1. Pay the new rate (ouch) \n\n2. Lock in annual at old rate (if we'd known earlier) \n\n3. Migrate to"
+  },
+  {
+    "title": "Is there a good task management app for a solo entrepreneur?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1px8jzu/is_there_a_good_task_management_app_for_a_solo/",
+    "score": 13,
+    "comments": 51,
+    "value_score": 52,
+    "validation_count": 3,
+    "problem_type": "automation",
+    "current_tools": [
+      "excel",
+      "sheets"
+    ],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "looking forward to organize and manage priorities better. ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-27",
+    "preview": "Hello, guys. I have been working as a freelancer for 3 years and this year i started a new small business that is going well. I am starting to feel like I could organize myself better and with work tasks increasing I am looking forward to organize and manage priorities better. \n\nI have been seeing s"
+  },
+  {
+    "title": "Alternative to Flexport? We got sold, and now we're up a creek",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1pwigdb/alternative_to_flexport_we_got_sold_and_now_were/",
+    "score": 6,
+    "comments": 41,
+    "value_score": 51,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [
+      "$500",
+      "$5000",
+      "$5000"
+    ],
+    "urgency": "normal",
+    "date": "2025-12-26",
+    "preview": "Is there an alternative to Flexport? \n\nOur small business got sold on the idea of Flexport when they started touting them as a partner solution with Shopify. We have operated on Shopify for over 12 years, and when Flexport caught our radar, it seemed like a fantastic idea. A logistics company that w"
+  },
+  {
+    "title": "small business owners, how do you handle online reviews and local marketing?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1q15s8s/small_business_owners_how_do_you_handle_online/",
+    "score": 4,
+    "comments": 26,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$200"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-01",
+    "preview": "running a small food business and finally got some of the basics sorted. using square for POS, got the branding stuff figured out with X-Design for packaging, menus and holiday promo posters, even using chatgpt for social captions. operations side is running pretty smooth.\n\nbut i'm struggling hard w"
+  },
+  {
+    "title": "stores with 500+ skus: do you automate product comparison inquiries or hire specialists?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pz97vc/stores_with_500_skus_do_you_automate_product/",
+    "score": 6,
+    "comments": 20,
+    "value_score": 47,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-30",
+    "preview": "we have about 600 SKUs across multiple categories and getting tons of questions like \"what's the difference between X and Y\" or \"which one is better for my use case\"\n\nmanually answering these takes forever because I have to actually look up specs and compare features each time. Thinking about either"
+  },
+  {
+    "title": "Sharing TinyToasts.co - the perfect alternative to traditional toasts - a video and message guestbook platform where celebration guests can send 'toasts' via QR code without any app download.",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1q960av/sharing_tinytoastsco_the_perfect_alternative_to/",
+    "score": 7,
+    "comments": 2,
+    "value_score": 36,
+    "validation_count": 0,
+    "problem_type": "collaboration",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "needed. works on any phone.",
+    "budget_signals": [
+      "$19",
+      "$59",
+      "$19"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-10",
+    "preview": "What it offers: QR codes for wedding guests to record video messages. No app download needed. Works on any phone.\n\nPerfect for people who: Want heartfelt messages from all guests (including shy ones), hate the idea of passing a mic, want something more personal than a guestbook.\n\nPricing: One-time f"
+  },
+  {
+    "title": "Need advice: Looking for a better project and client management tool",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1q08o0p/need_advice_looking_for_a_better_project_and/",
+    "score": 6,
+    "comments": 24,
+    "value_score": 34,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [
+      "trello"
+    ],
+    "pain_points": [],
+    "use_case": "need advice: looking for a better project and client management tool",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2025-12-31",
+    "preview": "Hey everyone,  \nI am looking for a tool with Kanban boards like Trello to manage client projects and internal work. Clients should have access to their own projects and leave feedback, while team members should be able to see all projects & tasks. Our team is very small (5 people including me), and "
+  },
+  {
+    "title": "Looking for app/software recommendations for a growing custom home build business",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1pzupcy/looking_for_appsoftware_recommendations_for_a/",
+    "score": 3,
+    "comments": 13,
+    "value_score": 24,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for app/software recommendations for a growing custom home build business",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-30",
+    "preview": "My brother and I run a small but rapidly growing custom home building operation. Most of the construction work is subcontracted out, so the majority of our time is spent coordinating with clients, trades, and vendors, as well as sourcing and purchasing materials.\n\nWe\u2019ve been fortunate to see signifi"
+  }
+]
