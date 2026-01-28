@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Anyone building Open Source alternatives to paid SaaS?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1qbwpyr/anyone_building_open_source_alternatives_to_paid/",
+    "score": 11,
+    "comments": 26,
+    "value_score": 60,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [
+      "zapier"
+    ],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$500"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-13",
+    "preview": "Hello, Bart here!\n\nOpen source is becoming a legit GTM strategy for SaaS - not just a hobby project approach. I'm sure you know many of these examples: Supabase -> Firebase, Plausible -> Google Analytics, N8n -> Zapier and so on. \n\nWe're going a similar path, but for wearables. Open Wearables is an "
+  },
+  {
+    "title": "Why does every social media tool suddenly cost $300/month?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1qczsk9/why_does_every_social_media_tool_suddenly_cost/",
+    "score": 3,
+    "comments": 10,
+    "value_score": 58,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "needed, but the pricing is a flat-rate instead of \"per user.\" it honestly saved my budget.",
+    "budget_signals": [
+      "$300"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-14",
+    "preview": "Serious question. I remember when managing social media was affordable.\n\nI just got quoted \"Agency\" pricing from the big legacy platforms (Sprout/Hootsuite) for a small team managing \\~10 accounts, and the price per user is insane. It feels like they are punishing us for growing.\n\nI spent the last w"
+  },
+  {
+    "title": "Is there a tool that alerts you BEFORE SaaS prices increase?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1q4xzzw/is_there_a_tool_that_alerts_you_before_saas/",
+    "score": 3,
+    "comments": 9,
+    "value_score": 53,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-05",
+    "preview": "Got absolutely burned last month. One of our core tools (won't name names) increased their pricing by 60% with only 30 days notice. \n\nWe're on monthly billing, so basically had to scramble to either: \n\n1. Pay the new rate (ouch) \n\n2. Lock in annual at old rate (if we'd known earlier) \n\n3. Migrate to"
+  },
+  {
+    "title": "How to automate or streamline LTL freight shipping solution/process?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1qmp5iz/how_to_automate_or_streamline_ltl_freight/",
+    "score": 6,
+    "comments": 21,
+    "value_score": 53,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "want things to work. customers get the shipping confirmation email, shipping updates automatically, ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-25",
+    "preview": "Hello! I have been selling on Shopify for a little over a year now and was hoping to get some advice/wisdom from other sellers on how you are currently processing freight orders. We sell ready to assembly furniture (similar to IKEA but more expensive), and most of the orders we ship with UPS.\n\nHowev"
+  },
+  {
+    "title": "small business owners, how do you handle online reviews and local marketing?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1q15s8s/small_business_owners_how_do_you_handle_online/",
+    "score": 4,
+    "comments": 26,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$200"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-01",
+    "preview": "running a small food business and finally got some of the basics sorted. using square for POS, got the branding stuff figured out with X-Design for packaging, menus and holiday promo posters, even using chatgpt for social captions. operations side is running pretty smooth.\n\nbut i'm struggling hard w"
+  },
+  {
+    "title": "stores with 500+ skus: do you automate product comparison inquiries or hire specialists?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1pz97vc/stores_with_500_skus_do_you_automate_product/",
+    "score": 6,
+    "comments": 22,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-30",
+    "preview": "we have about 600 SKUs across multiple categories and getting tons of questions like \"what's the difference between X and Y\" or \"which one is better for my use case\"\n\nmanually answering these takes forever because I have to actually look up specs and compare features each time. Thinking about either"
+  },
+  {
+    "title": "Sharing TinyToasts.co - the perfect alternative to traditional toasts - a video and message guestbook platform where celebration guests can send 'toasts' via QR code without any app download.",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1q960av/sharing_tinytoastsco_the_perfect_alternative_to/",
+    "score": 7,
+    "comments": 2,
+    "value_score": 36,
+    "validation_count": 0,
+    "problem_type": "collaboration",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "needed. works on any phone.",
+    "budget_signals": [
+      "$19",
+      "$59",
+      "$19"
+    ],
+    "urgency": "normal",
+    "date": "2026-01-10",
+    "preview": "What it offers: QR codes for wedding guests to record video messages. No app download needed. Works on any phone.\n\nPerfect for people who: Want heartfelt messages from all guests (including shy ones), hate the idea of passing a mic, want something more personal than a guestbook.\n\nPricing: One-time f"
+  },
+  {
+    "title": "Need advice: Looking for a better project and client management tool",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1q08o0p/need_advice_looking_for_a_better_project_and/",
+    "score": 7,
+    "comments": 24,
+    "value_score": 34,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [
+      "trello"
+    ],
+    "pain_points": [],
+    "use_case": "need advice: looking for a better project and client management tool",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2025-12-31",
+    "preview": "Hey everyone,  \nI am looking for a tool with Kanban boards like Trello to manage client projects and internal work. Clients should have access to their own projects and leave feedback, while team members should be able to see all projects & tasks. Our team is very small (5 people including me), and "
+  },
+  {
+    "title": "Do you scrub HAR files before sending them to support? I found my Auth Bearer token in one today.",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1qg37h3/do_you_scrub_har_files_before_sending_them_to/",
+    "score": 3,
+    "comments": 12,
+    "value_score": 34,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "want to share.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-18",
+    "preview": "    Hey everyone,\n    \n    I was debugging a chaotic issue with a SaaS provider today and they asked for a HAR file. I exported it from Chrome, but before sending, I grepped for my Auth header.\n    \n    It was there. Plain text. Along with some HttpOnly cookies I didn't want to share.\n    \n    I spe"
+  },
+  {
+    "title": "Looking for app/software recommendations for a growing custom home build business",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1pzupcy/looking_for_appsoftware_recommendations_for_a/",
+    "score": 3,
+    "comments": 13,
+    "value_score": 24,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for app/software recommendations for a growing custom home build business",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2025-12-30",
+    "preview": "My brother and I run a small but rapidly growing custom home building operation. Most of the construction work is subcontracted out, so the majority of our time is spent coordinating with clients, trades, and vendors, as well as sourcing and purchasing materials.\n\nWe\u2019ve been fortunate to see signifi"
+  },
+  {
+    "title": "How do you handle returns across the EU? Is there no app or anything that would allow customers to print return labels themselves?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1qlzmxv/how_do_you_handle_returns_across_the_eu_is_there/",
+    "score": 4,
+    "comments": 9,
+    "value_score": 24,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-24",
+    "preview": "Hi,\n\nIs there a service or anything that would allow returns across the eu with shipping partners integrated? That someone could just go through the return process and print a label for some price? \n\nCompared to the services available in the US (Happy returns, pirate ship that integrates with a bunc"
+  },
+  {
+    "title": "What tools can I use for noon, namshi, or trendyol?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1qn6wur/what_tools_can_i_use_for_noon_namshi_or_trendyol/",
+    "score": 2,
+    "comments": 9,
+    "value_score": 23,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "want to know what tools can i use for these marketplaces? i have the following goals:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-26",
+    "preview": "I currently own a d2c website where I am selling perfumes and have good sales. I have recently gotten listed on Noon and trendyol. I have been trying to get into Namshi, but looks like they require bigger brands only. In any case, I have been reliant on the shopify ecosystem for fulfilling orders an"
+  },
+  {
+    "title": "Is anyone actually measuring demand gen well right now?",
+    "subreddit": "marketing",
+    "url": "https://reddit.com/r/marketing/comments/1qkmvjs/is_anyone_actually_measuring_demand_gen_well/",
+    "score": 27,
+    "comments": 36,
+    "value_score": 20,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for\u201d vs \u201ci know what you do, please help me solve *this* problem\u201d)",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-23",
+    "preview": "I\u2019m trying to get to the bottom of how people are actually defining and measuring demand generation now that so much of the buying journey happens off-page.\n\nNot lead gen. Not \u201ccontent \u2192 form fill \u2192 MQL\u201d.  \nActual demand creation... especially in a zero-click world.\n\nA couple of angles I\u2019m curious a"
+  }
+]
