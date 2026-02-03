@@ -1,0 +1,103 @@
+# 🎯 Real SaaS Opportunities from Reddit - 2026-02-03
+
+*Found 10 actual software requests*
+
+## 🔥 VALIDATED OPPORTUNITIES (Multiple People Need This)
+
+### 1. Multi-platform sellers - how do you optimize listings for each platform?
+
+**Problem Type:** Automation
+
+**What they need:** wants keyword-stuffed titles (200 chars max), shopify has no limit but different seo best practices 
+
+**Currently using:** shopify
+
+**Pain points:** manual_process, missing_feature
+
+**Validation:** 2 others need this
+**Urgency:** normal
+**Opportunity Score:** 48
+
+[View Discussion](https://reddit.com/r/ecommerce/comments/1qrrvii/multiplatform_sellers_how_do_you_optimize/)
+
+----------------------------------------
+
+## 💡 OPPORTUNITIES BY TYPE
+
+### General Opportunities (2)
+
+- **Looking for perspective or advice on equity offer - I will not promote**
+  - Need: looking for perspective or advice on equity offer - i will n...
+  - Score: 24 | r/startups
+  - [Link](https://reddit.com/r/startups/comments/1qu6jc8/looking_for_perspective_or_advice_on_equity_offer/)
+
+- **Is anyone actually measuring demand gen well right now?**
+  - Need: looking for” vs “i know what you do, please help me solve *t...
+  - Score: 20 | r/marketing
+  - [Link](https://reddit.com/r/marketing/comments/1qkmvjs/is_anyone_actually_measuring_demand_gen_well/)
+
+### Automation Opportunities (5)
+
+- **Is per-profile pricing a growth killer? Looking for honest feedback from agencie**
+  - Need: looking for honest feedback from agencies....
+  - Score: 51 | r/SaaS
+  - [Link](https://reddit.com/r/SaaS/comments/1qnpj6m/is_perprofile_pricing_a_growth_killer_looking_for/)
+
+- **Is there a tool that alerts you BEFORE SaaS prices increase?**
+  - Score: 53 | r/SaaS
+  - [Link](https://reddit.com/r/SaaS/comments/1q4xzzw/is_there_a_tool_that_alerts_you_before_saas/)
+
+- **Multi-platform sellers - how do you optimize listings for each platform?**
+  - Need: wants keyword-stuffed titles (200 chars max), shopify has no...
+  - Score: 48 | r/ecommerce
+  - [Link](https://reddit.com/r/ecommerce/comments/1qrrvii/multiplatform_sellers_how_do_you_optimize/)
+
+- **How to automate or streamline LTL freight shipping solution/process?**
+  - Need: want things to work. customers get the shipping confirmation...
+  - Score: 53 | r/shopify
+  - [Link](https://reddit.com/r/shopify/comments/1qmp5iz/how_to_automate_or_streamline_ltl_freight/)
+
+- **Do you scrub HAR files before sending them to support? I found my Auth Bearer to**
+  - Need: want to share....
+  - Score: 35 | r/webdev
+  - [Link](https://reddit.com/r/webdev/comments/1qg37h3/do_you_scrub_har_files_before_sending_them_to/)
+
+### Integration Opportunities (2)
+
+- **Anyone building Open Source alternatives to paid SaaS?**
+  - Score: 60 | r/SaaS
+  - [Link](https://reddit.com/r/SaaS/comments/1qbwpyr/anyone_building_open_source_alternatives_to_paid/)
+
+- **How do you handle returns across the EU? Is there no app or anything that would **
+  - Score: 24 | r/ecommerce
+  - [Link](https://reddit.com/r/ecommerce/comments/1qlzmxv/how_do_you_handle_returns_across_the_eu_is_there/)
+
+### Collaboration Opportunities (1)
+
+- **Sharing TinyToasts.co - the perfect alternative to traditional toasts - a video **
+  - Need: needed. works on any phone....
+  - Score: 36 | r/webdev
+  - [Link](https://reddit.com/r/webdev/comments/1q960av/sharing_tinytoastsco_the_perfect_alternative_to/)
+
+## 📋 ALL OPPORTUNITIES RANKED
+
+1. **Anyone building Open Source alternatives to paid SaaS?**
+   - Type: integration | Score: 60 | r/SaaS | Validated: 1 | [Link](https://reddit.com/r/SaaS/comments/1qbwpyr/anyone_building_open_source_alternatives_to_paid/)
+2. **Is there a tool that alerts you BEFORE SaaS prices increase?**
+   - Type: automation | Score: 53 | r/SaaS | [Link](https://reddit.com/r/SaaS/comments/1q4xzzw/is_there_a_tool_that_alerts_you_before_saas/)
+3. **How to automate or streamline LTL freight shipping solution/process?**
+   - Type: automation | Score: 53 | r/shopify | Validated: 1 | [Link](https://reddit.com/r/shopify/comments/1qmp5iz/how_to_automate_or_streamline_ltl_freight/)
+4. **Is per-profile pricing a growth killer? Looking for honest feedback from agencies.**
+   - Type: automation | Score: 51 | r/SaaS | [Link](https://reddit.com/r/SaaS/comments/1qnpj6m/is_perprofile_pricing_a_growth_killer_looking_for/)
+5. **Multi-platform sellers - how do you optimize listings for each platform?**
+   - Type: automation | Score: 48 | r/ecommerce | Validated: 2 | [Link](https://reddit.com/r/ecommerce/comments/1qrrvii/multiplatform_sellers_how_do_you_optimize/)
+6. **Sharing TinyToasts.co - the perfect alternative to traditional toasts - a video and message guestbook platform where celebration guests can send 'toasts' via QR code without any app download.**
+   - Type: collaboration | Score: 36 | r/webdev | [Link](https://reddit.com/r/webdev/comments/1q960av/sharing_tinytoastsco_the_perfect_alternative_to/)
+7. **Do you scrub HAR files before sending them to support? I found my Auth Bearer token in one today.**
+   - Type: automation | Score: 35 | r/webdev | [Link](https://reddit.com/r/webdev/comments/1qg37h3/do_you_scrub_har_files_before_sending_them_to/)
+8. **Looking for perspective or advice on equity offer - I will not promote**
+   - Type: general | Score: 24 | r/startups | Validated: 1 | [Link](https://reddit.com/r/startups/comments/1qu6jc8/looking_for_perspective_or_advice_on_equity_offer/)
+9. **How do you handle returns across the EU? Is there no app or anything that would allow customers to print return labels themselves?**
+   - Type: integration | Score: 24 | r/ecommerce | Validated: 1 | [Link](https://reddit.com/r/ecommerce/comments/1qlzmxv/how_do_you_handle_returns_across_the_eu_is_there/)
+10. **Is anyone actually measuring demand gen well right now?**
+   - Type: general | Score: 20 | r/marketing | Validated: 1 | [Link](https://reddit.com/r/marketing/comments/1qkmvjs/is_anyone_actually_measuring_demand_gen_well/)
