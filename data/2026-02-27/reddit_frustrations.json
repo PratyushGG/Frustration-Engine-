@@ -1,0 +1,283 @@
+[
+  {
+    "title": "Multi-platform sellers - how do you optimize listings for each platform?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1qrrvii/multiplatform_sellers_how_do_you_optimize/",
+    "score": 3,
+    "comments": 25,
+    "value_score": 53,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process",
+      "missing_feature"
+    ],
+    "use_case": "wants keyword-stuffed titles (200 chars max), shopify has no limit but different seo best practices ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-30",
+    "preview": "I am trying to get started as a seller. Running into a workflow issue and wondering if anyone has solved this. Listing same products, but each platform has totally different requirements: - Amazon wants keyword-stuffed titles (200 chars max), Shopify has no limit but different SEO best practices . R"
+  },
+  {
+    "title": "RIP Postman free tier. Here's an open-source local-first alternative we've been building for over a year",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1qyi3wz/rip_postman_free_tier_heres_an_opensource/",
+    "score": 1128,
+    "comments": 197,
+    "value_score": 50,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-07",
+    "preview": "Hello r/rwebdev,\n\nA bit over a year ago, u/moosebay1, u/electwix, and me set out to build DevTools Studio - an open-source local-first alternative to Postman, and with them announcing pricing changes on March 1st, we figured this is a good time to share our progress so far.\n\nIf you know Postman, you"
+  },
+  {
+    "title": "Is there a simple way to monitor if the \"Add to Cart\" button actually works?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1qw3tr9/is_there_a_simple_way_to_monitor_if_the_add_to/",
+    "score": 7,
+    "comments": 6,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-04",
+    "preview": "A friend's store just had a broken checkout for 2 days because of a weird app conflict. Shopify was up, but nobody could buy anything.\n\u200bStandard uptime monitors (like UptimeRobot) didn't catch it because the site was technically \"online.\"\n\u200bDoes anyone use a tool that actually simulates a purchase ev"
+  },
+  {
+    "title": "Is there a simple way to monitor if the \"Add to Cart\" button actually works?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1qw3srf/is_there_a_simple_way_to_monitor_if_the_add_to/",
+    "score": 4,
+    "comments": 9,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-04",
+    "preview": "A friend's store just had a broken checkout for 2 days because of a weird app conflict. Shopify was up, but nobody could buy anything.\nStandard uptime monitors (like UptimeRobot) didn't catch it because the site was technically \"online.\"\nDoes anyone use a tool that actually simulates a purchase ever"
+  },
+  {
+    "title": "Entreprenuers who suck at distribution - what actually worked for you? (I will not promote)",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1qx755s/entreprenuers_who_suck_at_distribution_what/",
+    "score": 36,
+    "comments": 82,
+    "value_score": 47,
+    "validation_count": 5,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "want to do it all day. i'm hoping to turn being a solopreneur (or with a good cofounder) into meanin",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-05",
+    "preview": "So, I currently have 4 apps/projects running (2 are unique situations that earn income passively, 2 I'm actively building). My approach/hope is that I can continue to build multiple products, see what gets traction, and keep the winners alive.\n\nI genuinely love the building part (as I'm sure many do"
+  },
+  {
+    "title": "Typeform is getting expensive. I'm building an alternative - what would make you switch.",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1r7rm26/typeform_is_getting_expensive_im_building_an/",
+    "score": 11,
+    "comments": 18,
+    "value_score": 43,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-17",
+    "preview": "Hi people,\n\ni am building an alternative to typeform SAAS,\n\nnot just \"cheaper Typeform\" but something that actually solves the stuff they don't \n\n\n\nTypeform has proved to be giving less value and charge more for the same recently. can u guys give me ur expectations of features and what are expectati"
+  },
+  {
+    "title": "What is the real scope of a digital roster system in India? Looking for insights. | i will not promote",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1rca4om/what_is_the_real_scope_of_a_digital_roster_system/",
+    "score": 3,
+    "comments": 4,
+    "value_score": 41,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [
+      "excel",
+      "sheets"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "looking for insights. | i will not promote",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-23",
+    "preview": "need some insights on the roster system in india - i checked a few businesses they are still manages shift rosters manuall like Excel sheets, registers, or even WhatsApp messages.\n\n\n\ni want to know -\n\n1. How are you handling shift planning in your company\n2. Is manual rostering working fine, or does"
+  },
+  {
+    "title": "What is the best Modash Alternative to manage influencers",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1r9t2xp/what_is_the_best_modash_alternative_to_manage/",
+    "score": 3,
+    "comments": 9,
+    "value_score": 38,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "need a tool which will allow us to manage creators at scale. we sell on shopify and amazon and we ma",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-20",
+    "preview": "Hi all, we recently started using Modash to manage our influencer affiliates. It looked great at the beginning as it wasn\u2019t too expensive but once you start to scale they either keep trying to increase their pricing or they simply don\u2019t have the tools to automate.\u00a0\n\n\n\nTheir database is great but we "
+  },
+  {
+    "title": "I need a Powerpoint alternative to make insurance sales presentations?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1r7yo5e/i_need_a_powerpoint_alternative_to_make_insurance/",
+    "score": 95,
+    "comments": 38,
+    "value_score": 35,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "need a powerpoint alternative to make insurance sales presentations?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-18",
+    "preview": "Getting really tired of PowerPoint. Everything I make looks the same and kind of dated. Plus I'm not great at design so they end up looking pretty basic. Is there something better for making sales presentations that doesn't require me to be a designer?"
+  },
+  {
+    "title": "Newly hired VP at a 200+ person company\u2026 surprised by how unstructured the exec team is. Any advice? I will not promote.",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1qrsnuj/newly_hired_vp_at_a_200_person_company_surprised/",
+    "score": 206,
+    "comments": 127,
+    "value_score": 35,
+    "validation_count": 3,
+    "problem_type": "analytics",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for some honest perspective here.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-01-30",
+    "preview": "Hey everyone,\n\nLooking for some honest perspective here.\n\nI recently joined a company of 200+ employees as a VP (strategy-focused role). The people are great, the values are strong, culture is good, and overall it feels like there\u2019s a ton of potential.\n\nBut I\u2019ve been kind of shocked by how the execu"
+  },
+  {
+    "title": "Splitting shipping?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1r6xcg4/splitting_shipping/",
+    "score": 5,
+    "comments": 12,
+    "value_score": 30,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "wanting to split up one order when there's certain items being ordered together. i have art prints t",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-17",
+    "preview": "Hello! I'm very new to shopify and setting up my shipping settings. Basically I'm wanting to split up one order when there's certain items being ordered together. I have art prints that I need to ship in flat rigid mailers and items that need to be in soft bubble mailers, is there a way to automate "
+  },
+  {
+    "title": "Looking for perspective or advice on equity offer - I will not promote",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1qu6jc8/looking_for_perspective_or_advice_on_equity_offer/",
+    "score": 4,
+    "comments": 19,
+    "value_score": 26,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for perspective or advice on equity offer - i will not promote",
+    "budget_signals": [
+      "$7,500"
+    ],
+    "urgency": "normal",
+    "date": "2026-02-02",
+    "preview": "I joined a startup in good faith as CTO with a verbal agreement for 12% equity on a four-year vesting schedule with a one-year cliff, starting around Aug '25. Although we discussed and drafted a CTO/founder term sheet, nothing was ever formally signed or filed, including equity issuance or IP assign"
+  },
+  {
+    "title": "Shopify showing product \"In Stock\" in the US Market even though local inventory is 0? Help! (Show only fulfillable inventory is selected)",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1qxpp7k/shopify_showing_product_in_stock_in_the_us_market/",
+    "score": 4,
+    "comments": 16,
+    "value_score": 25,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-06",
+    "preview": "Hey everyone, hoping someone has run into this and found a fix because I\u2019m losing my mind.\n\nI have a multi-location setup: One warehouse in Canada (In Stock) and one in the US (Out of Stock). I **do not** ship from Canada to the US.\n\nDespite having my shipping zones separated and \"Fulfillable Invent"
+  },
+  {
+    "title": "Looking for AI Tool Recommendations - Are These Issues Universal or Tool-Specific?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1r17dwg/looking_for_ai_tool_recommendations_are_these/",
+    "score": 7,
+    "comments": 18,
+    "value_score": 22,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for ai tool recommendations - are these issues universal or tool-specific?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-10",
+    "preview": "I've been using Claude and ChatGPT (all versions in open AI) for my small business (crochet pattern design/blogging) for about 2 months. It started out amazing but has completely degraded to the point where it's making my work harder instead of easier. Before I keep banging my head against the wall,"
+  }
+]
