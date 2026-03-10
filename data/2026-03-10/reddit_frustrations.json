@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Our helpdesk software is a nightmare, whats actually the best ai helpdesk software for 2026?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1rjikl5/our_helpdesk_software_is_a_nightmare_whats/",
+    "score": 11,
+    "comments": 27,
+    "value_score": 76,
+    "validation_count": 4,
+    "problem_type": "automation",
+    "current_tools": [
+      "monday",
+      "zendesk"
+    ],
+    "pain_points": [
+      "cost",
+      "complexity"
+    ],
+    "use_case": "wants quotes for replacements. zendesk at $55 per agent. freshdesk at $15. we already have service n",
+    "budget_signals": [
+      "$55",
+      "$15"
+    ],
+    "urgency": "normal",
+    "date": "2026-03-03",
+    "preview": "Just spent half the morning digging through a queue buried under 3 weeks of unhandled password resets. feels like we\u2019re constantly firefighting instead of actually supporting customers.\n\nnow management wants quotes for replacements. zendesk at $55 per agent. freshdesk at $15. we already have service"
+  },
+  {
+    "title": "Built a scraping API as a cheaper, faster alternative to Firecrawl",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1r2u8gh/built_a_scraping_api_as_a_cheaper_faster/",
+    "score": 3,
+    "comments": 4,
+    "value_score": 56,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "complexity"
+    ],
+    "use_case": "needs. a simple curl request is $0.0002. if the site needs a real browser with captcha solving, that",
+    "budget_signals": [
+      "$0",
+      "$0",
+      "$79"
+    ],
+    "urgency": "normal",
+    "date": "2026-02-12",
+    "preview": "Been working on a scraping API for a few months now. The thing that pushed me to build it was watching my Firecrawl bill and realizing I was paying the same rate for a static HTML page as a full JS-rendered Cloudflare-protected site. That felt dumb.\n\nSo the core idea is tiered pricing based on what "
+  },
+  {
+    "title": "RIP Postman free tier. Here's an open-source local-first alternative we've been building for over a year",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1qyi3wz/rip_postman_free_tier_heres_an_opensource/",
+    "score": 1136,
+    "comments": 198,
+    "value_score": 50,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-07",
+    "preview": "Hello r/rwebdev,\n\nA bit over a year ago, u/moosebay1, u/electwix, and me set out to build DevTools Studio - an open-source local-first alternative to Postman, and with them announcing pricing changes on March 1st, we figured this is a good time to share our progress so far.\n\nIf you know Postman, you"
+  },
+  {
+    "title": "Typeform is getting expensive. I'm building an alternative - what would make you switch.",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1r7rm26/typeform_is_getting_expensive_im_building_an/",
+    "score": 9,
+    "comments": 21,
+    "value_score": 43,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-17",
+    "preview": "Hi people,\n\ni am building an alternative to typeform SAAS,\n\nnot just \"cheaper Typeform\" but something that actually solves the stuff they don't \n\n\n\nTypeform has proved to be giving less value and charge more for the same recently. can u guys give me ur expectations of features and what are expectati"
+  },
+  {
+    "title": "What is the real scope of a digital roster system in India? Looking for insights. | i will not promote",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1rca4om/what_is_the_real_scope_of_a_digital_roster_system/",
+    "score": 5,
+    "comments": 7,
+    "value_score": 42,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [
+      "excel",
+      "sheets"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "looking for insights. | i will not promote",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-23",
+    "preview": "need some insights on the roster system in india - i checked a few businesses they are still manages shift rosters manuall like Excel sheets, registers, or even WhatsApp messages.\n\n\n\ni want to know -\n\n1. How are you handling shift planning in your company\n2. Is manual rostering working fine, or does"
+  },
+  {
+    "title": "What is the best Modash Alternative to manage influencers",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1r9t2xp/what_is_the_best_modash_alternative_to_manage/",
+    "score": 6,
+    "comments": 14,
+    "value_score": 40,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "need a tool which will allow us to manage creators at scale. we sell on shopify and amazon and we ma",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-20",
+    "preview": "Hi all, we recently started using Modash to manage our influencer affiliates. It looked great at the beginning as it wasn\u2019t too expensive but once you start to scale they either keep trying to increase their pricing or they simply don\u2019t have the tools to automate.\u00a0\n\n\n\nTheir database is great but we "
+  },
+  {
+    "title": "I need a Powerpoint alternative to make insurance sales presentations?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1r7yo5e/i_need_a_powerpoint_alternative_to_make_insurance/",
+    "score": 96,
+    "comments": 39,
+    "value_score": 35,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "need a powerpoint alternative to make insurance sales presentations?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-18",
+    "preview": "Getting really tired of PowerPoint. Everything I make looks the same and kind of dated. Plus I'm not great at design so they end up looking pretty basic. Is there something better for making sales presentations that doesn't require me to be a designer?"
+  },
+  {
+    "title": "Pre-launch anxiety as a solo founder how do you stay focused?[i will not promote]",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1r03kme/prelaunch_anxiety_as_a_solo_founder_how_do_you/",
+    "score": 33,
+    "comments": 53,
+    "value_score": 31,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for discussion around mindset.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-09",
+    "preview": "I\u2019ve read and acknowledge the r/startups rules.\n\n\n\nI\u2019m a solo founder working on my first startup and I\u2019m struggling mentally before launch. I keep worrying about whether it will ever generate revenue, even though the product isn\u2019t finished yet. That fear is affecting my ability to focus day to day "
+  },
+  {
+    "title": "Splitting shipping?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1r6xcg4/splitting_shipping/",
+    "score": 4,
+    "comments": 12,
+    "value_score": 30,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "wanting to split up one order when there's certain items being ordered together. i have art prints t",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-17",
+    "preview": "Hello! I'm very new to shopify and setting up my shipping settings. Basically I'm wanting to split up one order when there's certain items being ordered together. I have art prints that I need to ship in flat rigid mailers and items that need to be in soft bubble mailers, is there a way to automate "
+  },
+  {
+    "title": "Fake Testimonials on Landing Page, does Anyone Actually Care?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1row53h/fake_testimonials_on_landing_page_does_anyone/",
+    "score": 9,
+    "comments": 48,
+    "value_score": 27,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "need to reach out first?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-09",
+    "preview": "I'm in early stage, no paying users yet, and my landing page looks empty without a testimonials section. A few questions I can't find a clear answer to\n\nDoes it actually matter if testimonials are real at this stage? I've seen a lot of early SaaS landing pages with suspiciously perfect reviews and w"
+  },
+  {
+    "title": "Looking for AI Tool Recommendations - Are These Issues Universal or Tool-Specific?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1r17dwg/looking_for_ai_tool_recommendations_are_these/",
+    "score": 7,
+    "comments": 19,
+    "value_score": 22,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for ai tool recommendations - are these issues universal or tool-specific?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-02-10",
+    "preview": "I've been using Claude and ChatGPT (all versions in open AI) for my small business (crochet pattern design/blogging) for about 2 months. It started out amazing but has completely degraded to the point where it's making my work harder instead of easier. Before I keep banging my head against the wall,"
+  }
+]
