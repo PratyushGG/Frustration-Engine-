@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Our helpdesk software is a nightmare, whats actually the best ai helpdesk software for 2026?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1rjikl5/our_helpdesk_software_is_a_nightmare_whats/",
+    "score": 13,
+    "comments": 35,
+    "value_score": 77,
+    "validation_count": 6,
+    "problem_type": "automation",
+    "current_tools": [
+      "monday",
+      "zendesk"
+    ],
+    "pain_points": [
+      "cost",
+      "complexity"
+    ],
+    "use_case": "wants quotes for replacements. zendesk at $55 per agent. freshdesk at $15. we already have service n",
+    "budget_signals": [
+      "$55",
+      "$15"
+    ],
+    "urgency": "normal",
+    "date": "2026-03-03",
+    "preview": "Just spent half the morning digging through a queue buried under 3 weeks of unhandled password resets. feels like we\u2019re constantly firefighting instead of actually supporting customers.\n\nnow management wants quotes for replacements. zendesk at $55 per agent. freshdesk at $15. we already have service"
+  },
+  {
+    "title": "What\u2019s the best alternative to spreadsheets for tracking multichannel sales?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1rxul5u/whats_the_best_alternative_to_spreadsheets_for/",
+    "score": 14,
+    "comments": 32,
+    "value_score": 53,
+    "validation_count": 3,
+    "problem_type": "automation",
+    "current_tools": [
+      "sheets",
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-19",
+    "preview": "We\u2019ve been tracking most of our sales and inventory in spreadsheets for a while. It worked fine when we were only selling through Shopify.\n\nBut now we\u2019re also on a couple of marketplaces and the spreadsheet situation is getting out of hand. Orders, inventory updates, and sales numbers are all coming"
+  },
+  {
+    "title": "What's the best way to validate early? ( I will not promote )",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1rwhzq1/whats_the_best_way_to_validate_early_i_will_not/",
+    "score": 12,
+    "comments": 44,
+    "value_score": 42,
+    "validation_count": 5,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-17",
+    "preview": "I've been trying to validate a new idea lately before i actually sit down and write any code, but man, the manual side of gtm is such a grind. feel like i'm spending half my day just hunting for the right people on linkedin, trying to find verified emails, and managing a messy spreadsheet to keep tr"
+  },
+  {
+    "title": "How do you decide when to fire a client vs try to make it work?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1rv0keq/how_do_you_decide_when_to_fire_a_client_vs_try_to/",
+    "score": 8,
+    "comments": 25,
+    "value_score": 39,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [
+      "$60"
+    ],
+    "urgency": "normal",
+    "date": "2026-03-16",
+    "preview": "We have a client who's about 20% of our revenue but I'm starting to think they're costing us more than they're worth. I can't tell if I'm overacting or if this is a real problem I should've dealt with months ago.\n\nThey've been with us for about 18 months, and they pay around $60K/year. On paper, tha"
+  },
+  {
+    "title": "Is there a more \u201cdev-first\u201d way to handle newsletters?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1s26hgb/is_there_a_more_devfirst_way_to_handle_newsletters/",
+    "score": 3,
+    "comments": 12,
+    "value_score": 39,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "mailchimp"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-24",
+    "preview": "I've personally used Mailchimp for newsletters for a while and have kind of just accepted its limitations.\n\nBut it's hard to get something that looks clean and consistent, and reusing structure across emails feels more manual and clunky than it should be.\n\nI'm not a dev by any means, but I keep thin"
+  },
+  {
+    "title": "Looking for a platform that will sync my inventory quantity across multiple platforms (etsy and ebay) VIA SKU. I do not want to need to ship through that platform for this feature.",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1rymz2s/looking_for_a_platform_that_will_sync_my/",
+    "score": 5,
+    "comments": 28,
+    "value_score": 30,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a platform that will sync my inventory quantity across multiple platforms (etsy and ebay",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-20",
+    "preview": "Any point in the right direction would be great. I have grown a lot and ship roughly 1000 packages a month. Just tried ship station but I need to ship through ship station in order for my quantities to sync. "
+  },
+  {
+    "title": "How do you handle the question? Where is your location",
+    "subreddit": "freelance",
+    "url": "https://reddit.com/r/freelance/comments/1ro6imj/how_do_you_handle_the_question_where_is_your/",
+    "score": 21,
+    "comments": 54,
+    "value_score": 29,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "high",
+    "date": "2026-03-08",
+    "preview": "I run a small publishing and book design service where I help authors prepare their books for publishing (cover design, typesetting, editorial preparation, etc.). Most of the work is naturally done online because clients send manuscripts digitally and the entire production process happens on a compu"
+  },
+  {
+    "title": "need a more complex shipping app for shopify basic store",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1rymu9d/need_a_more_complex_shipping_app_for_shopify/",
+    "score": 3,
+    "comments": 24,
+    "value_score": 28,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "need a more complex shipping app for shopify basic store",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-20",
+    "preview": "hello! forgive me if this is against the rules, its a little unclear to me.\n\nso i sell two main types of product in my shopify store, stickers and enamel pins. orders containing only stickers are sent via letter mail for cheaper. orders containing enamel pins, whether they have stickers or not, are "
+  },
+  {
+    "title": "cheaper alternatives to productfruits for small teams?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1rq3pyf/cheaper_alternatives_to_productfruits_for_small/",
+    "score": 9,
+    "comments": 8,
+    "value_score": 23,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "want us to jump to the $500 tier cause we hit 4k mau...",
+    "budget_signals": [
+      "$250",
+      "$500",
+      "$8"
+    ],
+    "urgency": "normal",
+    "date": "2026-03-10",
+    "preview": "we\u2019re a small team (4 ppl) and honestly productfruits is kinda killing our budget rn. paying $250/mo already and now they want us to jump to the $500 tier cause we hit 4k MAU...\n\ntbh i just cant justify that when our MRR is only around $8k. the math just doesnt work lol\n\nwe dont need anything super "
+  }
+]
