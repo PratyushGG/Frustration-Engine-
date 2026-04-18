@@ -1,0 +1,244 @@
+[
+  {
+    "title": "What\u2019s the best alternative to spreadsheets for tracking multichannel sales?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1rxul5u/whats_the_best_alternative_to_spreadsheets_for/",
+    "score": 19,
+    "comments": 50,
+    "value_score": 53,
+    "validation_count": 4,
+    "problem_type": "automation",
+    "current_tools": [
+      "sheets",
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-19",
+    "preview": "We\u2019ve been tracking most of our sales and inventory in spreadsheets for a while. It worked fine when we were only selling through Shopify.\n\nBut now we\u2019re also on a couple of marketplaces and the spreadsheet situation is getting out of hand. Orders, inventory updates, and sales numbers are all coming"
+  },
+  {
+    "title": "How do you test pricing for your product (meta ads)?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1slqbz2/how_do_you_test_pricing_for_your_product_meta_ads/",
+    "score": 3,
+    "comments": 13,
+    "value_score": 49,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-14",
+    "preview": "I used to test pricing on Shopify by changing the price of one product every couple of days and seeing what works.\n\nNow I\u2019m launching a whole collection and doing that manually across multiple items every few days might be time-consuming.\n\nWhat I\u2019m trying to figure out is whether there\u2019s a smoother "
+  },
+  {
+    "title": "We need to limit our orders",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1sik8tx/we_need_to_limit_our_orders/",
+    "score": 14,
+    "comments": 51,
+    "value_score": 47,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "need to limit our orders",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-11",
+    "preview": "We run a small bakery on Shopify and can only fulfil around 20-25 orders per day. Right now we have no way to stop orders coming in once we hit capacity, which means we either have to manually close the store or disappoint customers with delays.\n\nHas anyone solved this? Looking for an app that can c"
+  },
+  {
+    "title": "Alternative to QuickBooks?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1scjtl2/alternative_to_quickbooks/",
+    "score": 10,
+    "comments": 27,
+    "value_score": 40,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [
+      "quickbooks"
+    ],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "looking for an alternative to quickbooks for accounting, payment processing(debit, credit, and ach),",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-04",
+    "preview": "Looking for an alternative to QuickBooks for accounting, payment processing(debit, credit, and ACH), and contractor payments (w/1099 delivery preferably). Price keeps increasing, and there\u2019s no real data flow into TurboTax for tax filing. (Initial reason I started with them)\n\nSingle member Californi"
+  },
+  {
+    "title": "Is there a more \u201cdev-first\u201d way to handle newsletters?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1s26hgb/is_there_a_more_devfirst_way_to_handle_newsletters/",
+    "score": 3,
+    "comments": 13,
+    "value_score": 39,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [
+      "mailchimp"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-24",
+    "preview": "I've personally used Mailchimp for newsletters for a while and have kind of just accepted its limitations.\n\nBut it's hard to get something that looks clean and consistent, and reusing structure across emails feels more manual and clunky than it should be.\n\nI'm not a dev by any means, but I keep thin"
+  },
+  {
+    "title": "Quickbooks alternatives?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1s94949/quickbooks_alternatives/",
+    "score": 4,
+    "comments": 9,
+    "value_score": 38,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "excel",
+      "sheets",
+      "quickbooks",
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-31",
+    "preview": "We are a super small business - product based business doing pop up events and an online store on Shopify. \n\nUntil now we are doing stuff in Excel sheets but now looking to get to a better solution for expense tracking for tax purposes. Thinking of quickbooks and trying to figure out of there is an "
+  },
+  {
+    "title": "Multi Carrier Shipping Rate Shopping Software?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1rxes1o/multi_carrier_shipping_rate_shopping_software/",
+    "score": 14,
+    "comments": 20,
+    "value_score": 38,
+    "validation_count": 3,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "looking for something that would be able to rate shop multiple carriers at once in one place, so i d",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-18",
+    "preview": "Here's what I got going on, I have several services that I use to calculate shipping rates. Some of them are better than others depending on the time and type of shipment, but my issue is I have to manually go through and check each one to see which has the best rate for me. I'm looking for somethin"
+  },
+  {
+    "title": "Looking for a platform that will sync my inventory quantity across multiple platforms (etsy and ebay) VIA SKU. I do not want to need to ship through that platform for this feature.",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1rymz2s/looking_for_a_platform_that_will_sync_my/",
+    "score": 6,
+    "comments": 30,
+    "value_score": 31,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a platform that will sync my inventory quantity across multiple platforms (etsy and ebay",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-20",
+    "preview": "Any point in the right direction would be great. I have grown a lot and ship roughly 1000 packages a month. Just tried ship station but I need to ship through ship station in order for my quantities to sync. "
+  },
+  {
+    "title": "need a more complex shipping app for shopify basic store",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1rymu9d/need_a_more_complex_shipping_app_for_shopify/",
+    "score": 2,
+    "comments": 30,
+    "value_score": 30,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "need a more complex shipping app for shopify basic store",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-20",
+    "preview": "hello! forgive me if this is against the rules, its a little unclear to me.\n\nso i sell two main types of product in my shopify store, stickers and enamel pins. orders containing only stickers are sent via letter mail for cheaper. orders containing enamel pins, whether they have stickers or not, are "
+  },
+  {
+    "title": "What if you could run Python in the browser at 160KB instead of 20MB? I'm building a compiler to make it happen.",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1sj780c/what_if_you_could_run_python_in_the_browser_at/",
+    "score": 41,
+    "comments": 116,
+    "value_score": 27,
+    "validation_count": 1,
+    "problem_type": "collaboration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-12",
+    "preview": "Hey reddit,\n\nQuick question before I explain: **what's the max bundle size you'd accept for a non-JS frontend runtime?** 500KB? 1MB? Because that's exactly what I'm trying to figure out.\n\nI'm building **Edge Python**, a Python compiler written in Rust that targets WebAssembly. No CPython, no interpr"
+  },
+  {
+    "title": "EU Brands: How do you handle shipping to Norway, UK, and Switzerland without killing your margins?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1s7zts4/eu_brands_how_do_you_handle_shipping_to_norway_uk/",
+    "score": 4,
+    "comments": 3,
+    "value_score": 26,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-03-30",
+    "preview": "Hey everyone, I\u2019m the founder of Nom\u00e9 (nome.studio). We specialize in yak wool apparel.\n\nFor those of you shipping to non-EU neighbors like Norway, Switzerland, or the UK, I\u2019m curious how you handle the tax situation. Do you find it's better to let the customer handle the tax/VAT at the door, or do "
+  },
+  {
+    "title": "Looking for Shopify app that allows affiliates to build kits/bundles/product lists of products from my site that they can promote to their audience.",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1sfpy3y/looking_for_shopify_app_that_allows_affiliates_to/",
+    "score": 9,
+    "comments": 13,
+    "value_score": 20,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for shopify app that allows affiliates to build kits/bundles/product lists of products from ",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2026-04-08",
+    "preview": "So essentially I have a website selling craft products. I want my affiliates to be able to go onto my site, create a bundle/lists/groups/kits of products that they can then direct people to for a quicker/easier purchase process for their audience.\n\nFor example, lets say I have an affiliate who has a"
+  }
+]
