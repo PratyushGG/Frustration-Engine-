@@ -1,0 +1,232 @@
+[
+  {
+    "title": "How do you test pricing for your product (meta ads)?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1slqbz2/how_do_you_test_pricing_for_your_product_meta_ads/",
+    "score": 5,
+    "comments": 14,
+    "value_score": 49,
+    "validation_count": 3,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-14",
+    "preview": "I used to test pricing on Shopify by changing the price of one product every couple of days and seeing what works.\n\nNow I\u2019m launching a whole collection and doing that manually across multiple items every few days might be time-consuming.\n\nWhat I\u2019m trying to figure out is whether there\u2019s a smoother "
+  },
+  {
+    "title": "We need to limit our orders",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1sik8tx/we_need_to_limit_our_orders/",
+    "score": 14,
+    "comments": 53,
+    "value_score": 47,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "need to limit our orders",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-11",
+    "preview": "We run a small bakery on Shopify and can only fulfil around 20-25 orders per day. Right now we have no way to stop orders coming in once we hit capacity, which means we either have to manually close the store or disappoint customers with delays.\n\nHas anyone solved this? Looking for an app that can c"
+  },
+  {
+    "title": "Alternative to QuickBooks?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1scjtl2/alternative_to_quickbooks/",
+    "score": 7,
+    "comments": 27,
+    "value_score": 41,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [
+      "quickbooks"
+    ],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "looking for an alternative to quickbooks for accounting, payment processing(debit, credit, and ach),",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-04",
+    "preview": "Looking for an alternative to QuickBooks for accounting, payment processing(debit, credit, and ACH), and contractor payments (w/1099 delivery preferably). Price keeps increasing, and there\u2019s no real data flow into TurboTax for tax filing. (Initial reason I started with them)\n\nSingle member Californi"
+  },
+  {
+    "title": "Who\u2019s actually feeling the pain of AI API costs?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1srfdyk/whos_actually_feeling_the_pain_of_ai_api_costs/",
+    "score": 8,
+    "comments": 42,
+    "value_score": 41,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-21",
+    "preview": "We\u2019re a small SaaS team and our AI API bills have been creeping up every month. We\u2019ve tried a few things but honestly still feel like we\u2019re flying blind.\n\nCurious how others are dealing with this:\n\nHow do you know which features are actually worth the cost?\n\nHave you found ways to reduce spend witho"
+  },
+  {
+    "title": "Cheap Alternatives To Canva For Presentations (Ones I'd Actually Use)",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1sz5v6i/cheap_alternatives_to_canva_for_presentations/",
+    "score": 6,
+    "comments": 18,
+    "value_score": 37,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "looking for a ppt creator don't waste hours on canva like me, you're better off investing or using f",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-29",
+    "preview": "Out of all the tools I have tried in the presentation space, Canva seems to be the very last I'd ever use - the AI is EXTREMELY bad, templates are very outdated and creation + iterations feels like I am using PowerPoint on a web app.\n\nIf you're specifically looking for a ppt creator don't waste hour"
+  },
+  {
+    "title": "Looking for guidance on scaling",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1t1gy1w/looking_for_guidance_on_scaling/",
+    "score": 6,
+    "comments": 25,
+    "value_score": 34,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "looking for guidance on scaling",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-02",
+    "preview": "I founded a B2B company about 5 years ago \n\nWe are service based for specific industry \n\nBusiness has been growing however I\u2019m looking to scale higher \n\nOur system works and having close to 100% growth past 3 years shows for it but this year I want to make a higher push - we hired sales person to do"
+  },
+  {
+    "title": "How do you handle billing dates in SaaS subscriptions?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1soqwtn/how_do_you_handle_billing_dates_in_saas/",
+    "score": 7,
+    "comments": 29,
+    "value_score": 30,
+    "validation_count": 4,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2026-04-18",
+    "preview": "Building a SaaS and trying to figure out the best billing cycle approach. Two options I see:\n\n\n\n**Option A \u2013 Rolling 30 days**: Charge exactly 30 days after signup, then every 30 days. Feels \"fair\" since every user gets the same interval.\n\n**Option B \u2013 Same calendar date each month**: Charge on the "
+  },
+  {
+    "title": "What if you could run Python in the browser at 160KB instead of 20MB? I'm building a compiler to make it happen.",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1sj780c/what_if_you_could_run_python_in_the_browser_at/",
+    "score": 38,
+    "comments": 117,
+    "value_score": 28,
+    "validation_count": 1,
+    "problem_type": "collaboration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-12",
+    "preview": "Hey reddit,\n\nQuick question before I explain: **what's the max bundle size you'd accept for a non-JS frontend runtime?** 500KB? 1MB? Because that's exactly what I'm trying to figure out.\n\nI'm building **Edge Python**, a Python compiler written in Rust that targets WebAssembly. No CPython, no interpr"
+  },
+  {
+    "title": "How do you manage workflow for made-to-order products across multiple channels (Shopify + Etsy)?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1srd6gf/how_do_you_manage_workflow_for_madetoorder/",
+    "score": 8,
+    "comments": 16,
+    "value_score": 26,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a simple way to:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-21",
+    "preview": "Hi all,\n\nI run a small made-to-order business selling on Shopify and Etsy, and I\u2019m trying to simplify how I manage orders and production.\n\nI handle everything myself, and with multiple product variants things get messy fast.\n\nI\u2019m looking for a simple way to:\n\n* centralize orders from both channels\n*"
+  },
+  {
+    "title": "Anyone here doing Amazon wholesale/reselling in India? Need real insights before I jump in",
+    "subreddit": "FulfillmentByAmazon",
+    "url": "https://reddit.com/r/FulfillmentByAmazon/comments/1steckx/anyone_here_doing_amazon_wholesalereselling_in/",
+    "score": 6,
+    "comments": 10,
+    "value_score": 23,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "need real insights before i jump in",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-04-23",
+    "preview": "I\u2019m planning to start with Amazon wholesale/reselling in India, mainly focusing on branded products.\n\nThe idea is simple: start with minimum capital, test a few products, and keep reinvesting profits for the next couple of months instead of going all-in from day one.\n\nI already have an Amazon seller"
+  },
+  {
+    "title": "What\u2019s the best web test recorder for reliable playback? Looking for a chrome extension.",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1t0rm2c/whats_the_best_web_test_recorder_for_reliable/",
+    "score": 8,
+    "comments": 12,
+    "value_score": 20,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a chrome extension.",
+    "budget_signals": [],
+    "urgency": "high",
+    "date": "2026-05-01",
+    "preview": "Been working on my own Saas for a few months now and I\u2019m starting to struggle with UI testing. I\u2019m wondering if there are any reliable web test recorders or if scripting is the only way to go. The ones I\u2019ve used so far break immediately if a button moves even the tiniest bit. It seems like they\u2019re r"
+  },
+  {
+    "title": "Looking for Shopify app that allows affiliates to build kits/bundles/product lists of products from my site that they can promote to their audience.",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1sfpy3y/looking_for_shopify_app_that_allows_affiliates_to/",
+    "score": 8,
+    "comments": 13,
+    "value_score": 20,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for shopify app that allows affiliates to build kits/bundles/product lists of products from ",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2026-04-08",
+    "preview": "So essentially I have a website selling craft products. I want my affiliates to be able to go onto my site, create a bundle/lists/groups/kits of products that they can then direct people to for a quicker/easier purchase process for their audience.\n\nFor example, lets say I have an affiliate who has a"
+  }
+]
