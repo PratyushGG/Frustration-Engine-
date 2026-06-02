@@ -1,0 +1,185 @@
+[
+  {
+    "title": "Finally pulling the plug on our POS after the billing surprise\u2026 what's actually a good alternative to Lightspeed?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1tp96by/finally_pulling_the_plug_on_our_pos_after_the/",
+    "score": 7,
+    "comments": 21,
+    "value_score": 58,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "need anything fancy. just solid inventory tracking, something that works on the devices we already h",
+    "budget_signals": [
+      "$400",
+      "$4,800",
+      "$20"
+    ],
+    "urgency": "normal",
+    "date": "2026-05-27",
+    "preview": "Been running a small clothing shop for about two years and we went with what seemed like a safe choice for our POS. Then the fees started stacking. The biggest shock was a $400/month charge just for using a third-party payment processor, which adds up to $4,800 a year extra if you don't switch over "
+  },
+  {
+    "title": "Looking for guidance on scaling",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1t1gy1w/looking_for_guidance_on_scaling/",
+    "score": 13,
+    "comments": 93,
+    "value_score": 37,
+    "validation_count": 5,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "cost",
+      "missing_feature"
+    ],
+    "use_case": "looking for guidance on scaling",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-02",
+    "preview": "I founded a B2B company about 5 years ago \n\nWe are service based for specific industry \n\nBusiness has been growing however I\u2019m looking to scale higher \n\nOur system works and having close to 100% growth past 3 years shows for it but this year I want to make a higher push - we hired sales person to do"
+  },
+  {
+    "title": "My SaaS has 3 pricing tiers. The cheapest one does all my marketing and most of my customer acquisition. Is that a wedge or a trap?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1tc5y5f/my_saas_has_3_pricing_tiers_the_cheapest_one_does/",
+    "score": 8,
+    "comments": 16,
+    "value_score": 36,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "wante",
+    "budget_signals": [
+      "$19",
+      "$59",
+      "$199"
+    ],
+    "urgency": "normal",
+    "date": "2026-05-13",
+    "preview": "Most pricing posts are either \"I raised prices and 10x'd revenue\" or \"I cut prices and won the market.\" This one is neither. It's about what happens when your cheapest tier does all your marketing, even when you have higher tiers sitting right next to it.\n\n**Quick context.** I run Produktly solo. Al"
+  },
+  {
+    "title": "How do you actually hire a virtual assistant for a shopify store without it becoming a disaster",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1thkqfg/how_do_you_actually_hire_a_virtual_assistant_for/",
+    "score": 26,
+    "comments": 84,
+    "value_score": 34,
+    "validation_count": 4,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "want to hire a virtual assistant to take over customer support but i'm nervous about handing someone",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-19",
+    "preview": "My shopify store doing decent numbers but customer service is killing me. 100+ emails a day, order questions, shipping complaints, return requests. I'm spending 5+ hours daily just on inbox stuff and it's pulling me away from everything that actually grows the business.\n\nI want to hire a virtual ass"
+  },
+  {
+    "title": "Done with Shopify POS fees piling up, what are people actually switching to?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1tp7hof/done_with_shopify_pos_fees_piling_up_what_are/",
+    "score": 15,
+    "comments": 29,
+    "value_score": 32,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for the best alternative to shopify pos that won't nickel-and-dime me per register or employ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-27",
+    "preview": "Running a small clothing store and the add-ons keep stacking up every month. Looking for the best alternative to Shopify POS that won't nickel-and-dime me per register or employee. What's actually working for you guys?"
+  },
+  {
+    "title": "Done with Shopify POS fees piling up, what are people actually switching to?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1tp7hof/done_with_shopify_pos_fees_piling_up_what_are/",
+    "score": 15,
+    "comments": 29,
+    "value_score": 32,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for the best alternative to shopify pos that won't nickel-and-dime me per register or employ",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-27",
+    "preview": "Running a small clothing store and the add-ons keep stacking up every month. Looking for the best alternative to Shopify POS that won't nickel-and-dime me per register or employee. What's actually working for you guys?"
+  },
+  {
+    "title": "I made VideoFlow, an open source library to render videos programmatically (alternative to Remotion)",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1t7ayim/i_made_videoflow_an_open_source_library_to_render/",
+    "score": 2,
+    "comments": 8,
+    "value_score": 32,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "looking for open-source feedback on:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-08",
+    "preview": "I recently launched\u00a0**VideoFlow**, an Apache-2.0 open-source toolkit for creating videos from code.\n\nIt\u2019s meant for programmatic/generated video workflows. Instead of building videos manually in an editor, you describe the video as JSON: layers, timing, transitions, effects, keyframes, groups, and r"
+  },
+  {
+    "title": "looking for some advice about email management",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1ttq6y7/looking_for_some_advice_about_email_management/",
+    "score": 9,
+    "comments": 31,
+    "value_score": 26,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for some advice about email management",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-01",
+    "preview": "# [](https://www.reddit.com/r/SmallBusinessCanada/?f=flair_name%3A%22General%22)My Google inbox is taking too much of my time. I get like >50 emails/ day; how do you manage your time with regards to answering your emails in a timely fashion, dealing with client calls and visits and employee scheduli"
+  },
+  {
+    "title": "any good alternative to trustpilot yet?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1t4m5oa/any_good_alternative_to_trustpilot_yet/",
+    "score": 6,
+    "comments": 28,
+    "value_score": 25,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "need to find something that actually makes sense long term. heres what we need:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-05",
+    "preview": "i work for a company and we just got an email from trustpilot.. either we pay a hefty amount and agree to a yearly contract, or we have to remove their logo, name, reviews, everything from our website, socials, all of it.\n\nthese are our own reviews. our own customers left them because they were happ"
+  }
+]
