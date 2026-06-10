@@ -1,0 +1,80 @@
+[
+  {
+    "title": "My SaaS has 3 pricing tiers. The cheapest one does all my marketing and most of my customer acquisition. Is that a wedge or a trap?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1tc5y5f/my_saas_has_3_pricing_tiers_the_cheapest_one_does/",
+    "score": 10,
+    "comments": 16,
+    "value_score": 36,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "cost"
+    ],
+    "use_case": "wante",
+    "budget_signals": [
+      "$19",
+      "$59",
+      "$199"
+    ],
+    "urgency": "normal",
+    "date": "2026-05-13",
+    "preview": "Most pricing posts are either \"I raised prices and 10x'd revenue\" or \"I cut prices and won the market.\" This one is neither. It's about what happens when your cheapest tier does all your marketing, even when you have higher tiers sitting right next to it.\n\n**Quick context.** I run Produktly solo. Al"
+  },
+  {
+    "title": "How do you actually hire a virtual assistant for a shopify store without it becoming a disaster",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1thkqfg/how_do_you_actually_hire_a_virtual_assistant_for/",
+    "score": 26,
+    "comments": 89,
+    "value_score": 35,
+    "validation_count": 4,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "time_consuming"
+    ],
+    "use_case": "want to hire a virtual assistant to take over customer support but i'm nervous about handing someone",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-05-19",
+    "preview": "My shopify store doing decent numbers but customer service is killing me. 100+ emails a day, order questions, shipping complaints, return requests. I'm spending 5+ hours daily just on inbox stuff and it's pulling me away from everything that actually grows the business.\n\nI want to hire a virtual ass"
+  },
+  {
+    "title": "looking for some advice about email management",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1ttq6y7/looking_for_some_advice_about_email_management/",
+    "score": 7,
+    "comments": 33,
+    "value_score": 26,
+    "validation_count": 2,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for some advice about email management",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-01",
+    "preview": "# [](https://www.reddit.com/r/SmallBusinessCanada/?f=flair_name%3A%22General%22)My Google inbox is taking too much of my time. I get like >50 emails/ day; how do you manage your time with regards to answering your emails in a timely fashion, dealing with client calls and visits and employee scheduli"
+  },
+  {
+    "title": "How do you handle clients who keep adding new requests to fixed-price projects?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1tvj5xc/how_do_you_handle_clients_who_keep_adding_new/",
+    "score": 3,
+    "comments": 15,
+    "value_score": 20,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-03",
+    "preview": "Really curious on how i can track whats in scope vs whats not. Not sure how to have the conversation when its time to charge extra and it makes me come of as awkward. Is there a system of some kind?"
+  }
+]
