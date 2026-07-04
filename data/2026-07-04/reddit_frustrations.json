@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Looking for a web monitoring tool that can alert me when competitor pricing changes",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1u2ioc1/looking_for_a_web_monitoring_tool_that_can_alert/",
+    "score": 4,
+    "comments": 61,
+    "value_score": 51,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "cost"
+    ],
+    "use_case": "looking for a web monitoring tool that can alert me when competitor pricing changes",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-10",
+    "preview": "I'm trying to find a simple web monitoring tool because I\u2019m getting tired of manually checking competitor pricing pages every day. Prices change often and sometimes it\u2019s small tweaks or hidden updates that are easy to miss unless you\u2019re constantly reloading and comparing pages side by side.\n\nWhat I "
+  },
+  {
+    "title": "I\u2019m fighting so hard not to say anything on this social post that\u2019s looking for a catch-all \u201ccoordinator.\u201d",
+    "subreddit": "marketing",
+    "url": "https://reddit.com/r/marketing/comments/1u48l4f/im_fighting_so_hard_not_to_say_anything_on_this/",
+    "score": 64,
+    "comments": 78,
+    "value_score": 35,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a catch-all \u201ccoordinator.\u201d",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-12",
+    "preview": "What I so badly want to respond with is: Do you realize that you\u2019re getting:\n\n\\- A photographer \n\n\\- A videographer, and an editor \n\n\\- A social media manager/admin & social strategist \n\n\\- An event programmer\n\n\\- An email marketing coordinator \n\n\\- A graphic designer\n\nAll in one? I hope you\u2019re payi"
+  },
+  {
+    "title": "Looking for a Shopify app that turns customers into affiliates by verifying their social following (post-purchase)",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1uayy27/looking_for_a_shopify_app_that_turns_customers/",
+    "score": 9,
+    "comments": 17,
+    "value_score": 32,
+    "validation_count": 1,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a shopify app that turns customers into affiliates by verifying their social following (",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-20",
+    "preview": "Hey all,\n\nTrying to find an app (or combo of apps) that does   \nsomething pretty specific and I\u2019m not sure of the right term for it.\n\nAfter someone buys, I want to prompt them to connect/authenticate their social accounts (IG, TikTok, etc.) so we can see their actual follower count/ engagement rate "
+  },
+  {
+    "title": "What\u2019s the best appointment booking app you\u2019ve used on Shopify?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1uejrfp/whats_the_best_appointment_booking_app_youve_used/",
+    "score": 6,
+    "comments": 11,
+    "value_score": 28,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "need a proper booking system.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-24",
+    "preview": "My parents run a small wedding and events business, and they've reached the point where managing bookings through WhatsApp and Google Calendar is getting messy. A couple of scheduling conflicts recently made us realize they need a proper booking system.\n\nI'm helping them move things online with Shop"
+  },
+  {
+    "title": "Shopify Built Rental Businesses - how do you track 'bad customers' that you want blacklisted?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1ubn9t0/shopify_built_rental_businesses_how_do_you_track/",
+    "score": 4,
+    "comments": 22,
+    "value_score": 27,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "want blacklisted?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-21",
+    "preview": "I've tried looking for a 'blacklist customer' app on the app store, but it seems most of the blacklisting apps are more related to fraudulent transactions like chargebacks and cash on delivery. Interested in hearing how rental and hire businesses on Shopify are tracking 'bad customers' that aren't r"
+  },
+  {
+    "title": "How do you handle clients who keep adding new requests to fixed-price projects?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1tvj5xc/how_do_you_handle_clients_who_keep_adding_new/",
+    "score": 3,
+    "comments": 16,
+    "value_score": 20,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-06-03",
+    "preview": "Really curious on how i can track whats in scope vs whats not. Not sure how to have the conversation when its time to charge extra and it makes me come of as awkward. Is there a system of some kind?"
+  }
+]
