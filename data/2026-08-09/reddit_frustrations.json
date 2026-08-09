@@ -1,0 +1,203 @@
+[
+  {
+    "title": "I\u2019ve sent 600+ cold DMs to MedSpas over the last 2 months and I still can't figure out what I'm doing wrong. Looking for honest advice. I will not promote",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1vazgb9/ive_sent_600_cold_dms_to_medspas_over_the_last_2/",
+    "score": 6,
+    "comments": 33,
+    "value_score": 41,
+    "validation_count": 3,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for honest advice. i will not promote",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-07-30",
+    "preview": "Hey everyone,\n\nI'm hoping to get some brutally honest feedback because I'm starting to feel like I'm missing something fundamental.\n\nFor the last 2 months, I've been trying to build a business serving MedSpas in the US. The goal is to help them get more qualified Bookings but I'm struggling to find "
+  },
+  {
+    "title": "Any tips on someone totally new to running a business? (One person company)",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1vhlx6b/any_tips_on_someone_totally_new_to_running_a/",
+    "score": 54,
+    "comments": 77,
+    "value_score": 40,
+    "validation_count": 5,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "needed for running a company/business. i've worked freelance most of my life.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-08-06",
+    "preview": "I've been a web developer for 15 years, I'm 28 now and I finally decided to go all in on one of my projects.\n\nThe idea is already validated and has great potential, it's similar to starting a Shopify in a country that doesn't have a Shopify. I'm porting a concept from another company because first o"
+  },
+  {
+    "title": "How do you manage long term automation clients who treat each request like an emergency?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1vg2gl9/how_do_you_manage_long_term_automation_clients/",
+    "score": 5,
+    "comments": 14,
+    "value_score": 35,
+    "validation_count": 3,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "want us to drop everything and have it ready by tomorrow. in their mind, that one job has to be done",
+    "budget_signals": [],
+    "urgency": "high",
+    "date": "2026-08-05",
+    "preview": "Our longest standing automation client presents us with our biggest scheduling challenge.\n\n\n\nThey\u2019ve been with us for years, always pay on time, and never question what we charge.\u201d The problem is that almost every request is being marked as \u2018urgent.\u2019\n\n\n\nChatbot update, CRM workflow change, API integ"
+  },
+  {
+    "title": "Any alternative to Claude code?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1vgy8kf/any_alternative_to_claude_code/",
+    "score": 25,
+    "comments": 95,
+    "value_score": 35,
+    "validation_count": 4,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a good context coding agent like claude code but one that is really cheaper. i was payin",
+    "budget_signals": [
+      "$100"
+    ],
+    "urgency": "normal",
+    "date": "2026-08-06",
+    "preview": "Hi, \n\nI am looking for a good context coding agent like Claude Code but one that is really cheaper. I was paying $100 per month but now it makes me real frustrated to pay this much every month. The cost is just so high for build anything. \n\nI am looking for the best alternatives. Let me know what yo"
+  },
+  {
+    "title": "Brick & mortar shops: How do you manage retail inventory for your Shopify store?",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1vai1fj/brick_mortar_shops_how_do_you_manage_retail/",
+    "score": 7,
+    "comments": 15,
+    "value_score": 31,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for insights, guidance, and experience from individuals who are running a brick and mortar s",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-07-29",
+    "preview": "I'm looking for insights, guidance, and experience from individuals who are running a brick and mortar shop and selling inventory on Shopify.\n\nThis question is probably more about inventory management for small retail shops than Shopify specifically, but I am interested in Shopify-native solutions/t"
+  },
+  {
+    "title": "Help with post purchase product recommendations",
+    "subreddit": "shopify",
+    "url": "https://reddit.com/r/shopify/comments/1v8htfn/help_with_post_purchase_product_recommendations/",
+    "score": 8,
+    "comments": 29,
+    "value_score": 30,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a tool that can learn in real-time as they launch new categories and products and help d",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-07-27",
+    "preview": "I am in contact with a consumer brand with a rapidly expanding catalog looking for a tool that can learn in real-time as they launch new categories and products and help decide what products to recommend next. Their historical repurchase patterns are becoming obsolete. Has anyone found a good soluti"
+  },
+  {
+    "title": "I made open source MIT licensed visual CMS as an alternative to Framer, Webflow, and WordPress",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1v6i4aw/i_made_open_source_mit_licensed_visual_cms_as_an/",
+    "score": 295,
+    "comments": 83,
+    "value_score": 30,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [
+      "wordpress"
+    ],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-07-25",
+    "preview": "Hey guys,\n\nI am David, I've been working with WordPress for over a decade, and building WordPress plugins was my bread and butter for the last 5 years. I was running an agency before that.\n\nI loved working with WordPress, but then I also got increasingly frustrated from what was happening in and out"
+  },
+  {
+    "title": "Is this a dumb business model, or does it make sense?",
+    "subreddit": "Entrepreneur",
+    "url": "https://reddit.com/r/Entrepreneur/comments/1viyhlv/is_this_a_dumb_business_model_or_does_it_make/",
+    "score": 19,
+    "comments": 43,
+    "value_score": 28,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "complexity"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-08-08",
+    "preview": "I\u2019ve been running an MVP development agency for the last two years. We\u2019ve built MVPs for clients, and I\u2019ve also built a few B2B SaaS and consumer apps myself.\n\nThe agency has done okay, but I\u2019ve started to realize how difficult it is to scale a business that mostly relies on one-off payments.\n\nYou b"
+  },
+  {
+    "title": "Looking for a solution to mask page titles for vulnerable users without hurting SEO?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1uxu9yn/looking_for_a_solution_to_mask_page_titles_for/",
+    "score": 44,
+    "comments": 45,
+    "value_score": 28,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a solution to mask page titles for vulnerable users without hurting seo?",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2026-07-16",
+    "preview": "First off - I'm an SEO consultant, not a developer, so apologies if any of this sounds extremely stupid. But I think you'll quickly see why I'm asking here, and why I don't have experience with this particular challenge...\n\n\\~\\~\\~\n\nI'm consulting on a support and resources website for survivors of d"
+  },
+  {
+    "title": "Looking for a solution to mask page titles for vulnerable users without hurting SEO?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1uxu9yn/looking_for_a_solution_to_mask_page_titles_for/",
+    "score": 42,
+    "comments": 45,
+    "value_score": 28,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a solution to mask page titles for vulnerable users without hurting seo?",
+    "budget_signals": [],
+    "urgency": "medium",
+    "date": "2026-07-16",
+    "preview": "First off - I'm an SEO consultant, not a developer, so apologies if any of this sounds extremely stupid. But I think you'll quickly see why I'm asking here, and why I don't have experience with this particular challenge...\n\n\\~\\~\\~\n\nI'm consulting on a support and resources website for survivors of d"
+  },
+  {
+    "title": "Struggling to get out of the weeds and actually grow. Looking for a business coach who isn't a grifter",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1valsnd/struggling_to_get_out_of_the_weeds_and_actually/",
+    "score": 14,
+    "comments": 99,
+    "value_score": 27,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for a business coach who isn't a grifter",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-07-30",
+    "preview": "I run a construction/remodeling company as a licensed GC. Been at it for a while, the business is profitable, but I'm stuck doing work I know I shouldn't be doing myself. I'm still the bottleneck for hiring, sales, and a bunch of day-to-day stuff that should be delegated by now.\n\nEven though I'm doi"
+  }
+]
