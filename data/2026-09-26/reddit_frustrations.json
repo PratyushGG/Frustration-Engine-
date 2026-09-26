@@ -1,0 +1,247 @@
+[
+  {
+    "title": "What are the best tools you\u2019ve discovered over the years?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1w4v40e/what_are_the_best_tools_youve_discovered_over_the/",
+    "score": 224,
+    "comments": 78,
+    "value_score": 50,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-01",
+    "preview": "Let\u2019s share hidden gem tools, not the usual stuff that shows up in every \"top developer tools\" post, but smaller tools and projects that made you think, \"wait, this is actually really useful.\"\n\nI'll start with 3 I've come across:\n\n**1. Archify**  \n[https://github.com/tt-a1i/archify](https://github.c"
+  },
+  {
+    "title": "Looking for a tool that alerts you to prospective SaaS customers on Reddit?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1wfjdbv/looking_for_a_tool_that_alerts_you_to_prospective/",
+    "score": 7,
+    "comments": 22,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "time_consuming"
+    ],
+    "use_case": "looking for a tool that alerts you to prospective saas customers on reddit?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-13",
+    "preview": "Reddit is currently my primary customer acquisition channel, but manually scanning threads for leads takes hours.\n\nIs there a tool that automatically monitors Reddit for high-intent keywords/opportunities in my niche and sends instant alerts when a relevant post pops up?\n\nWould love to hear what sof"
+  },
+  {
+    "title": "Looking for a tool that alerts you to prospective SaaS customers on Reddit?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1wfjdbv/looking_for_a_tool_that_alerts_you_to_prospective/",
+    "score": 8,
+    "comments": 22,
+    "value_score": 48,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process",
+      "time_consuming"
+    ],
+    "use_case": "looking for a tool that alerts you to prospective saas customers on reddit?",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-13",
+    "preview": "Reddit is currently my primary customer acquisition channel, but manually scanning threads for leads takes hours.\n\nIs there a tool that automatically monitors Reddit for high-intent keywords/opportunities in my niche and sends instant alerts when a relevant post pops up?\n\nWould love to hear what sof"
+  },
+  {
+    "title": "How do you handle local dev against third-party APIs you don't control?",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1w31dmx/how_do_you_handle_local_dev_against_thirdparty/",
+    "score": 40,
+    "comments": 58,
+    "value_score": 47,
+    "validation_count": 2,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-08-30",
+    "preview": "Been going back and forth on this for a while and I don't think I've landed anywhere good.\n\n\n\nThe situation is the usual one. App talks to a handful of external APIs. Some have sandbox environments, some don't. The ones that do have sandboxes that don't quite match prod, and the gap is never documen"
+  },
+  {
+    "title": "How do you manage ppc campaign budgets according to your ACOS? Intermediate - Advanced PPC optimization / scaling tips",
+    "subreddit": "FulfillmentByAmazon",
+    "url": "https://reddit.com/r/FulfillmentByAmazon/comments/1wi3ng4/how_do_you_manage_ppc_campaign_budgets_according/",
+    "score": 4,
+    "comments": 2,
+    "value_score": 41,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "want to have a good campaign run out of runway.",
+    "budget_signals": [
+      "$2000"
+    ],
+    "urgency": "normal",
+    "date": "2026-09-16",
+    "preview": "Amazon sellers ask, how do you manage ppc campaign budgets according to your ACOS?\n\nThe obvious answer isn't entirely the right one. \"Shift budget to low ACOS campaigns\" sounds right, but it's only a partial answer, and not necessarily the right one.\n\n1. First of all, if something's profitable, why "
+  },
+  {
+    "title": "Redditors of r/ecommerce, how do you track competitor retail prices?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1w4le9t/redditors_of_recommerce_how_do_you_track/",
+    "score": 2,
+    "comments": 23,
+    "value_score": 37,
+    "validation_count": 1,
+    "problem_type": "management",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for a self setup experience and i'd like just to be able to name the companies / domains and",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-01",
+    "preview": "I'm researching tools / apps that price track \\*mostly\\* large shopify and few other retail platforms. Does anyone have a recommendation? I'm looking for a self setup experience and I'd like just to be able to name the companies / domains and hopefully specific categories. Does sonething like this e"
+  },
+  {
+    "title": "Looking for an open-source Gumtree/OLX-style marketplace to customize",
+    "subreddit": "webdev",
+    "url": "https://reddit.com/r/webdev/comments/1wjnlmm/looking_for_an_opensource_gumtreeolxstyle/",
+    "score": 7,
+    "comments": 5,
+    "value_score": 27,
+    "validation_count": 0,
+    "problem_type": "analytics",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "looking for an open-source gumtree/olx-style marketplace to customize",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-18",
+    "preview": "&#x200B;\n\nHi everyone,\n\nI'm working on a classifieds marketplace for Syria called Friday Market Syria, somewhat similar to Gumtree or OLX.\n\nThe idea is to have a simple platform where users can post items for sale, browse listings, search/filter by categories, and contact sellers directly. There wil"
+  },
+  {
+    "title": "Looking for software recommendations",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wc225i/looking_for_software_recommendations/",
+    "score": 6,
+    "comments": 39,
+    "value_score": 26,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for software recommendations",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-09",
+    "preview": "We have a business with only a couple of employees. It's a compliance business, we audit logistics companies. Generally jobs take a full day, or a few days. So we don't need to be scheduling multiple jobs a day like lots of the tradie software is catering to. I've used ServiceM8 previously but it's "
+  },
+  {
+    "title": "How do you handle training new hires when so much knowledge is just \"in someone's head\"?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wktryv/how_do_you_handle_training_new_hires_when_so_much/",
+    "score": 5,
+    "comments": 32,
+    "value_score": 26,
+    "validation_count": 4,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-19",
+    "preview": "Curious how other small business owners/managers deal with this \u2014 when a new employee has a question, where do they actually go? Is everything written down somewhere, or do they mostly just ask whoever's around?\n\nAlso curious: is there a question you feel like you've answered a hundred times to diff"
+  },
+  {
+    "title": "Startup founders: what actually makes you respond to cold outreach? (i will not promote)",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1wan40g/startup_founders_what_actually_makes_you_respond/",
+    "score": 39,
+    "comments": 94,
+    "value_score": 22,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for software engineering and ios engineering roles in the startup space, and i've been tryin",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-08",
+    "preview": "I'm currently looking for software engineering and iOS engineering roles in the startup space, and I've been trying to reach founders directly.\n\nI've tried cold email and LinkedIn, but my response rate has basically been zero.\n\nI also try not to send the generic \"Hi, I'm a software engineer looking "
+  },
+  {
+    "title": "Alternative of Stripe",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1wjmtod/alternative_of_stripe/",
+    "score": 11,
+    "comments": 51,
+    "value_score": 22,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [
+      "stripe"
+    ],
+    "pain_points": [],
+    "use_case": "need an alternative to stripe, as i am building the saas product and, for some reason, i am not able",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-18",
+    "preview": "Hi everyone, \n\nI need an alternative to Stripe, as I am building the SAAS product and, for some reason, I am not able to use the Stripe account\n\nIt's a subscription-based model, so I need an alternative to it that is Good and reliable and has low fees also\n\nThanks"
+  },
+  {
+    "title": "Looking for an app",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wa56g7/looking_for_an_app/",
+    "score": 5,
+    "comments": 19,
+    "value_score": 21,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for an app",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-07",
+    "preview": "Hi there! \n\nI work for a small business and we typically have volunteers come in and help us get organized. I have been asked to find an app or website (not sign up genius) that would allow them to sign up for \u201cshifts\u201don the days we are open in a more efficient way. I know we could probably use Goog"
+  },
+  {
+    "title": "Looking for a low-maintenance, scalable e-commerce platform for a small smart-home business",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1wi6esm/looking_for_a_lowmaintenance_scalable_ecommerce/",
+    "score": 4,
+    "comments": 33,
+    "value_score": 20,
+    "validation_count": 0,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a low-maintenance, scalable e-commerce platform for a small smart-home business",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-16",
+    "preview": "Hello everyone,\n\nI\u2019m an entrepreneur running a small business. I sell smart locks, smart-home devices, and doors (B2B only), and I also provide installation, integration, and related services.\n\nFor the past year, I\u2019ve been trying to choose the most user-friendly and efficient platform for an online "
+  }
+]
