@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Looking for a simple Client + Service + Payment Management System for a small service business",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wrdg2b/looking_for_a_simple_client_service_payment/",
+    "score": 12,
+    "comments": 58,
+    "value_score": 42,
+    "validation_count": 2,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "looking for a simple client + service + payment management system for a small service business",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-27",
+    "preview": "I run a professional-services business where we provide services first and collect payment later. I'm looking for software to replace our current manual/spreadsheet-based process.\n\nI don't need accounting software, bookkeeping, GST software or a full ERP. I'm specifically looking for a **client/serv"
+  },
+  {
+    "title": "Need advice regarding consolidating the software I use for shipping + inventory ordering",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1x05ef5/need_advice_regarding_consolidating_the_software/",
+    "score": 7,
+    "comments": 20,
+    "value_score": 42,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [
+      "sheets"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "need advice regarding consolidating the software i use for shipping + inventory ordering",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-07",
+    "preview": "Software I use (I'm a one man shop, btw):\n\n\\-Shipstation: create labels with discounted rates\n\n\\-QBO: create POs for new inventory purchases, keeps the books neat\n\n\\-StockTrim: know what to order, how much, and when\n\n\\-Google Sheets: keep track of inventory orders: if they're paid, ETAs, etc.\n\n\\-Big"
+  },
+  {
+    "title": "Looking for a service/consultant who can help me to track legal side/accounting for my business + personal taxes.",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wz52ys/looking_for_a_serviceconsultant_who_can_help_me/",
+    "score": 4,
+    "comments": 17,
+    "value_score": 30,
+    "validation_count": 0,
+    "problem_type": "management",
+    "current_tools": [
+      "quickbooks",
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "looking for a service/consultant who can help me to track legal side/accounting for my business + pe",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-06",
+    "preview": "I have made a post here 2y ago and found a really good CPA who helped me since then with everything: opening LLC, taxes, certificates, whatever is needed. Unfortunately, they have disappeared 2 months ago and don't answer calls, emails or their website messages. I assume that something has happened "
+  },
+  {
+    "title": "how to get chatgpt to recommend your product.",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1xal7ko/how_to_get_chatgpt_to_recommend_your_product/",
+    "score": 14,
+    "comments": 32,
+    "value_score": 28,
+    "validation_count": 5,
+    "problem_type": "management",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-20",
+    "preview": "i\u2019ll cut to the chase.\n\nmost of you guys reading this probably already know AI search is becoming a serious acquisition channel. people are asking AI like ChatGPT, Claude, Perplexity, for what products to use instead of opening Google and digging through normal search. ai search, ( AEO/GEO ) is as i"
+  },
+  {
+    "title": "Can I use claude for building my own LI automation agent?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1wu85ht/can_i_use_claude_for_building_my_own_li/",
+    "score": 4,
+    "comments": 14,
+    "value_score": 25,
+    "validation_count": 1,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "looking for linkedin automation software, and i figured this should be able to be built by claude, r",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-30",
+    "preview": "Hey, I'm looking for LinkedIn automation software, and I figured this should be able to be built by Claude, right? \n\nAnyone in here who have tried this before, what actually goes into it?  \n  \nFrom where I'm seeing it, it's just:\n\n1. connecting your LinkedIn profile to Claude\n2. adding a CSV sheet w"
+  },
+  {
+    "title": "Is there a tool to see how many sales an Amazon influencer\u2019s storefront has generated?",
+    "subreddit": "FulfillmentByAmazon",
+    "url": "https://reddit.com/r/FulfillmentByAmazon/comments/1x25fys/is_there_a_tool_to_see_how_many_sales_an_amazon/",
+    "score": 6,
+    "comments": 13,
+    "value_score": 25,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-09",
+    "preview": "Hi everyone,\n\nI\u2019m enrolled in Amazon Creator Connections, and many influencers have requested free product samples in exchange for reviews or promotional content.\n\nBefore sending out free samples, I\u2019d like to know how many sales their Amazon storefronts have generated.\n\nIs there any tool that can he"
+  },
+  {
+    "title": "What is the popular platform for e-commerce web site?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1x0cmww/what_is_the_popular_platform_for_ecommerce_web/",
+    "score": 21,
+    "comments": 84,
+    "value_score": 24,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "want to sell something online, looking for software solution.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-07",
+    "preview": "Want to sell something online, looking for software solution.\n\nSo far my research giving me 2 platforms WooCommerce and Shopify.\n\nAny other i should consider?\n\nAlso which one allows an easy integration with Amazon/eBay/Etsy?\n\n  \nThanks."
+  },
+  {
+    "title": "My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)",
+    "subreddit": "startups",
+    "url": "https://reddit.com/r/startups/comments/1x5tv5z/my_pm_quit_after_3_weeks_now_wants_back_on_better/",
+    "score": 38,
+    "comments": 69,
+    "value_score": 23,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "wants back on better terms and i feel uneasy. rehire him or go with the runner-up? (i will not promo",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-14",
+    "preview": "Quick note: English isn\u2019t my first language, so I used AI to help me write this post in clear English. The situation, the details and the dilemma are all mine.\n\nI\u2019m the founder/CEO of a \\~10-year-old, profitable legal-tech SaaS in Mexico (small team: tech lead, 4 devs, QA, plus an offshore dev team "
+  },
+  {
+    "title": "What do you use for customer support, and how do you handle customers who get stuck?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1x6o02a/what_do_you_use_for_customer_support_and_how_do/",
+    "score": 5,
+    "comments": 23,
+    "value_score": 22,
+    "validation_count": 2,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "want to learn from real setups, not marketing pages. thanks for any insight.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-15",
+    "preview": "I'm trying to understand how small B2B SaaS teams handle customer support, and I'd like to hear what works for you.\n\n* What tools do you use (help desk, live chat, email, calls)?\n* When a customer is stuck and can't explain the problem, what do you do? Screenshots, screen recordings, a video call?\n*"
+  },
+  {
+    "title": "Best alternative to Shopify for a small business website that doesn\u2019t sell online?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wu6sfw/best_alternative_to_shopify_for_a_small_business/",
+    "score": 7,
+    "comments": 43,
+    "value_score": 21,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "need a website where i can:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-30",
+    "preview": "I currently have a Shopify website for my small business. The website looks good and has actually worked well for me. I receive enquiries through it and have converted a number of those into orders, so the website has easily paid for itself.\n\nHowever, I don\u2019t actually take payments or sell products "
+  },
+  {
+    "title": "Best alternative to Shopify for a small business website that doesn\u2019t sell online?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wu6sfw/best_alternative_to_shopify_for_a_small_business/",
+    "score": 4,
+    "comments": 43,
+    "value_score": 20,
+    "validation_count": 3,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "need a website where i can:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-30",
+    "preview": "I currently have a Shopify website for my small business. The website looks good and has actually worked well for me. I receive enquiries through it and have converted a number of those into orders, so the website has easily paid for itself.\n\nHowever, I don\u2019t actually take payments or sell products "
+  }
+]
