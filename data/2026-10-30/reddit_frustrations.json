@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Need advice regarding consolidating the software I use for shipping + inventory ordering",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1x05ef5/need_advice_regarding_consolidating_the_software/",
+    "score": 6,
+    "comments": 20,
+    "value_score": 41,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [
+      "sheets"
+    ],
+    "pain_points": [
+      "manual_process"
+    ],
+    "use_case": "need advice regarding consolidating the software i use for shipping + inventory ordering",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-07",
+    "preview": "Software I use (I'm a one man shop, btw):\n\n\\-Shipstation: create labels with discounted rates\n\n\\-QBO: create POs for new inventory purchases, keeps the books neat\n\n\\-StockTrim: know what to order, how much, and when\n\n\\-Google Sheets: keep track of inventory orders: if they're paid, ETAs, etc.\n\n\\-Big"
+  },
+  {
+    "title": "Which kinds of software actually survive the next 10 years?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1x7grh7/which_kinds_of_software_actually_survive_the_next/",
+    "score": 57,
+    "comments": 49,
+    "value_score": 35,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-16",
+    "preview": "I keep going back and forth on this. A lot of software today is basically a place where people type in what already happened somewhere else. Updating the CRM after the call, writing up the meeting notes, moving a task from the chat into the project tool. The software is useful, but someone has to fe"
+  },
+  {
+    "title": "Which kinds of software actually survive the next 10 years?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1x7grh7/which_kinds_of_software_actually_survive_the_next/",
+    "score": 57,
+    "comments": 49,
+    "value_score": 35,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [],
+    "pain_points": [
+      "missing_feature"
+    ],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-16",
+    "preview": "I keep going back and forth on this. A lot of software today is basically a place where people type in what already happened somewhere else. Updating the CRM after the call, writing up the meeting notes, moving a task from the chat into the project tool. The software is useful, but someone has to fe"
+  },
+  {
+    "title": "Built a genuinely fast, non-wrapper AI tool for a \"boring\" B2B problem (OCR + data extraction). 100 cold emails and 6 warm dev leads later: everyone says \"cool\" and ghosts. How do you break the integration friction?",
+    "subreddit": "SaaS",
+    "url": "https://reddit.com/r/SaaS/comments/1x9hsq2/built_a_genuinely_fast_nonwrapper_ai_tool_for_a/",
+    "score": 4,
+    "comments": 22,
+    "value_score": 27,
+    "validation_count": 0,
+    "problem_type": "automation",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-18",
+    "preview": "I spent the last year building a data extraction model targeted to back-office automation developers(emails, invoices, delivery notes, supplier quotes, bills of lading).\n\nInstead of using an existing LLM API and creating a wrapper, I trained a custom transformer from scratch with grammar-constrained"
+  },
+  {
+    "title": "Is there a tool to see how many sales an Amazon influencer\u2019s storefront has generated?",
+    "subreddit": "FulfillmentByAmazon",
+    "url": "https://reddit.com/r/FulfillmentByAmazon/comments/1x25fys/is_there_a_tool_to_see_how_many_sales_an_amazon/",
+    "score": 6,
+    "comments": 13,
+    "value_score": 25,
+    "validation_count": 0,
+    "problem_type": "integration",
+    "current_tools": [],
+    "pain_points": [],
+    "use_case": "",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-09",
+    "preview": "Hi everyone,\n\nI\u2019m enrolled in Amazon Creator Connections, and many influencers have requested free product samples in exchange for reviews or promotional content.\n\nBefore sending out free samples, I\u2019d like to know how many sales their Amazon storefronts have generated.\n\nIs there any tool that can he"
+  },
+  {
+    "title": "What is the popular platform for e-commerce web site?",
+    "subreddit": "ecommerce",
+    "url": "https://reddit.com/r/ecommerce/comments/1x0cmww/what_is_the_popular_platform_for_ecommerce_web/",
+    "score": 22,
+    "comments": 86,
+    "value_score": 24,
+    "validation_count": 1,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "want to sell something online, looking for software solution.",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-10-07",
+    "preview": "Want to sell something online, looking for software solution.\n\nSo far my research giving me 2 platforms WooCommerce and Shopify.\n\nAny other i should consider?\n\nAlso which one allows an easy integration with Amazon/eBay/Etsy?\n\n  \nThanks."
+  },
+  {
+    "title": "Best alternative to Shopify for a small business website that doesn\u2019t sell online?",
+    "subreddit": "smallbusiness",
+    "url": "https://reddit.com/r/smallbusiness/comments/1wu6sfw/best_alternative_to_shopify_for_a_small_business/",
+    "score": 5,
+    "comments": 44,
+    "value_score": 21,
+    "validation_count": 4,
+    "problem_type": "general",
+    "current_tools": [
+      "shopify"
+    ],
+    "pain_points": [],
+    "use_case": "need a website where i can:",
+    "budget_signals": [],
+    "urgency": "normal",
+    "date": "2026-09-30",
+    "preview": "I currently have a Shopify website for my small business. The website looks good and has actually worked well for me. I receive enquiries through it and have converted a number of those into orders, so the website has easily paid for itself.\n\nHowever, I don\u2019t actually take payments or sell products "
+  }
+]
